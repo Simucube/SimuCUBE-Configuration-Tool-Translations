@@ -5,7 +5,7 @@ The purpose of this repository is to make it possible for users to contribute tr
 
 ## Tools required
 
-Download Qt software package, and make sure QLinguist is included.
+Download Qt software package, and make sure QLinguist is included. Note, that Qt is quite large distribution. You will not need most of the packages.
 
 User manual to make translations is available here:
 
