@@ -26,6 +26,8 @@ Translate the appropriate file using QLinguist. Simucubetuner is the internal na
 
     I accept the Granite Devices Contributor License Agreement
 
+Pull requests without this text will not be included.
+
 
 ## FAQ
 
