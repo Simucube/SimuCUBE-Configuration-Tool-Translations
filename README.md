@@ -11,6 +11,9 @@ User manual to make translations is available here:
 
 http://doc.qt.io/qt-5/linguist-translators.html
 
+* You will need to follow the instructions in "Translating Strings" section up to the point that every translation string shows up as being translated.
+* There is no need to run the release tool, we will run it later.
+
 
 ## License
 
