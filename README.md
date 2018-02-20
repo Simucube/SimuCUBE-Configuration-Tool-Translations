@@ -46,6 +46,11 @@ A: Yes. For missing languages, please write it as an issue or let us know otherw
 <br>&nbsp;
 
 
+Q: Whats up with the %1 %2 etc. markers in the text?
+
+A: Usually, the are used to make the text **bold**, stop making text bold, or to add html tags at those positions to generate the surrounded text as a link to a WWW site. Also, in some cases, a lonely %1 will get replaced by a numeric value. 
+
+
 Q: I have other questions?
 
 A: Yes, please ask them in an issue on this repository or in our Community Forum at 
