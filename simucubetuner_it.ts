@@ -1408,7 +1408,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2443"/>
+        <location filename="mw.cpp" line="2457"/>
         <source>Event Log</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1696,42 +1696,42 @@
 <context>
     <name>motorconfigwizard_indexingselect</name>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="10"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="11"/>
         <source>Select indexing mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="11"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="12"/>
         <source>Choose the method to use for indexing your wheel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="12"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="13"/>
         <source>%1 Automatic point in reference to the position after initialization. %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="14"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="15"/>
         <source>Wheel must be approximately centered when SimuCUBE is powered on, wheel will be usable immediately after Initilization is completed. See User Guide for further information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="15"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="16"/>
         <source>%1 Manual, in reference to encoder physical index %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="17"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="18"/>
         <source>Wheel may be at any position when SimuCUBE is powered on but must be turned enough (maximum 180 degrees in each direction) to detect encoder index point after phasing for wheel to be usable. See User Guide for further information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="18"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="19"/>
         <source>Automatic, in reference to position after Initilization.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="19"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="20"/>
         <source>Manual, in reference to encoder physical index.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1794,11 +1794,6 @@
     <message>
         <location filename="motorconfigwizard_intropage.cpp" line="22"/>
         <source>%1 Note: %2 The wizard will activate the first profile which can&apos;t be edited before trying to initialize the wheel. This is to maximize the safety so that the wheel will not start turning after initialization. %3 It is good practise %4 to disconnect any USB cables from the wheel rim (if any) and have the E-Stop button close by when running this wizard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="motorconfigwizard_intropage.cpp" line="25"/>
-        <source>%1 Note: %2 The wizard will save current settings into SimuCUBE Flash Memory. This includes all profiles and any changes made to them.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1911,6 +1906,34 @@
     <message>
         <location filename="motorconfigwizard_setcenter_preinit.cpp" line="158"/>
         <source>Applying Ioni DRC Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>motorconfigwizard_settingsChanged</name>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="11"/>
+        <source>Unsaved settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="12"/>
+        <source>%1You have unsaved settings in SimuCUBE.%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="13"/>
+        <source>Your unsaved settings will be either saved to SimuCUBE, or you can reload the last saved settings. Choose your preferred action.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="36"/>
+        <source>Save settings to SimuCUBE and continue wizard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="37"/>
+        <source>Reload last saved settings and continue the wizard.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
