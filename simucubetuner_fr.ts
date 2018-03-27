@@ -356,711 +356,712 @@
         <translation>Outil de Configuration SimuCube</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="67"/>
+        <location filename="mw.ui" line="65"/>
         <source>OPERATING MODE</source>
         <translation>FONCTIONNEMENT</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="80"/>
+        <location filename="mw.ui" line="78"/>
         <source>Unknown/disconnected</source>
         <translation>Inconnu/déconnecté</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="93"/>
+        <location filename="mw.ui" line="91"/>
         <source>Toggle E-stop to clear faults (if any).</source>
         <translation>Enclenchez et désenclenchez le bouton d&apos;arrêt d&apos;urgence pour effacer les erreurs (s&apos;il y en a).</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="96"/>
+        <location filename="mw.ui" line="94"/>
         <source>E-stop status is unknown.</source>
         <translation>Le statut du bouton d&apos;arrêt d&apos;urgence est inconnu.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="115"/>
+        <location filename="mw.ui" line="113"/>
         <source>E-STOP &amp; MOTOR STATUS: </source>
         <translation>STATUTS ARRET D&apos;URGENCE ET MOTEUR:</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="125"/>
+        <location filename="mw.ui" line="123"/>
         <source>Read-only safe profile</source>
         <translation>Profil de base sécurisé</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="138"/>
+        <location filename="mw.ui" line="136"/>
         <source>ACTIVE PROFILE:</source>
         <translation>PROFIL ACTIF:</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="163"/>
+        <location filename="mw.ui" line="161"/>
         <source>Overview</source>
         <translation>Vue générale</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="204"/>
+        <location filename="mw.ui" line="202"/>
         <source>Wheel position</source>
         <translation>position du volant</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="227"/>
+        <location filename="mw.ui" line="225"/>
         <source>Reset center</source>
         <translation>Recentrage</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="258"/>
+        <location filename="mw.ui" line="256"/>
         <source>Analog inputs</source>
         <translation>Entrées analogique</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="265"/>
-        <location filename="mw.ui" line="285"/>
-        <location filename="mw.ui" line="295"/>
-        <location filename="mw.ui" line="333"/>
-        <location filename="mw.ui" line="396"/>
-        <location filename="mw.ui" line="426"/>
+        <location filename="mw.ui" line="263"/>
+        <location filename="mw.ui" line="283"/>
+        <location filename="mw.ui" line="293"/>
+        <location filename="mw.ui" line="331"/>
+        <location filename="mw.ui" line="394"/>
+        <location filename="mw.ui" line="424"/>
         <source>-----</source>
         <translation>-----</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="323"/>
+        <location filename="mw.ui" line="321"/>
         <source>value</source>
         <translation>valeur</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="373"/>
+        <location filename="mw.ui" line="371"/>
         <source>-----l</source>
         <translation>-----l</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="446"/>
+        <location filename="mw.ui" line="444"/>
         <source>Buttons</source>
         <translation>Boutons</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="459"/>
+        <location filename="mw.ui" line="457"/>
         <source>○○○○○○○○○○○○○○○○</source>
         <translation>○○○○○○○○○○○○○○○○</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="491"/>
+        <location filename="mw.ui" line="489"/>
         <source>Profiles</source>
         <translation>Profils</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="499"/>
+        <location filename="mw.ui" line="497"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="547"/>
+        <location filename="mw.ui" line="545"/>
         <source>Management</source>
         <translation>Gestion</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="554"/>
+        <location filename="mw.ui" line="552"/>
         <source>Add</source>
         <translation>Ajouter</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="561"/>
+        <location filename="mw.ui" line="559"/>
         <source>Delete</source>
         <translation>Effacer</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="568"/>
+        <location filename="mw.ui" line="566"/>
         <source>Set as default</source>
         <translation>Définir par défaut</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="588"/>
+        <location filename="mw.ui" line="586"/>
         <source>Adds all profiles from simucubeprofiles.ini</source>
         <translation>Ajouter tous les profils de simucubeprofiles.ini</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="591"/>
+        <location filename="mw.ui" line="589"/>
         <source>Add profiles from file</source>
         <translation>Ajouter des profils d&apos;un fichier</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="608"/>
+        <location filename="mw.ui" line="606"/>
         <source>Reorder profiles</source>
         <translation>Réorganiser les profils</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="615"/>
+        <location filename="mw.ui" line="613"/>
         <source>Exports all profiles to simucubeprofiles.ini</source>
         <translation>Exporter tous les profils sur simucubeprofiles.ini</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="618"/>
+        <location filename="mw.ui" line="616"/>
         <source>Export profiles to file</source>
         <translation>Exporter les profils sur un fichier</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="629"/>
+        <location filename="mw.ui" line="627"/>
         <source>Effect activity. - = not used, ○ = effect is created, ● = effect is actively controlled by game</source>
         <translation>utilisation des effets. = pas utilisé,  ○ = l&apos;effet est créé, ● = l&apos;effet est actuellement utilisé par le jeu</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="632"/>
+        <location filename="mw.ui" line="630"/>
         <source>Active</source>
         <translation>Actif</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="639"/>
-        <location filename="mw.ui" line="749"/>
-        <location filename="mw.ui" line="772"/>
-        <location filename="mw.ui" line="782"/>
-        <location filename="mw.ui" line="792"/>
-        <location filename="mw.ui" line="802"/>
-        <location filename="mw.ui" line="812"/>
+        <location filename="mw.ui" line="637"/>
+        <location filename="mw.ui" line="747"/>
+        <location filename="mw.ui" line="770"/>
+        <location filename="mw.ui" line="780"/>
+        <location filename="mw.ui" line="790"/>
+        <location filename="mw.ui" line="800"/>
+        <location filename="mw.ui" line="810"/>
         <source>-</source>
         <translation>-</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="662"/>
-        <location filename="mw.ui" line="699"/>
-        <location filename="mw.ui" line="716"/>
-        <location filename="mw.ui" line="726"/>
-        <location filename="mw.ui" line="1327"/>
-        <location filename="mw.ui" line="1422"/>
-        <location filename="mw.ui" line="1432"/>
+        <location filename="mw.ui" line="660"/>
+        <location filename="mw.ui" line="697"/>
+        <location filename="mw.ui" line="714"/>
+        <location filename="mw.ui" line="724"/>
+        <location filename="mw.ui" line="1325"/>
+        <location filename="mw.ui" line="1420"/>
+        <location filename="mw.ui" line="1430"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="672"/>
+        <location filename="mw.ui" line="670"/>
         <source>Sawtooth</source>
         <translation>Dent de scie</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="692"/>
+        <location filename="mw.ui" line="690"/>
         <source>Square wave</source>
         <translation>Carré</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="709"/>
+        <location filename="mw.ui" line="707"/>
         <source>Triangle</source>
         <translation>Triangle</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="822"/>
-        <location filename="mw.ui" line="1468"/>
-        <location filename="mw.ui" line="1898"/>
+        <location filename="mw.ui" line="820"/>
+        <location filename="mw.ui" line="1466"/>
         <source>Damping</source>
         <translation>Amorti</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="829"/>
+        <location filename="mw.ui" line="827"/>
         <source>Actual max current</source>
         <translation>Intensité max actuelle</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="839"/>
+        <location filename="mw.ui" line="837"/>
         <source>Filter disabled</source>
         <translation>Filtre désactivé</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="842"/>
+        <location filename="mw.ui" line="840"/>
         <source> Hz</source>
         <translation>Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="858"/>
+        <location filename="mw.ui" line="856"/>
         <source>  Attenuation dB</source>
         <translation>Diminution dB</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="868"/>
+        <location filename="mw.ui" line="866"/>
         <source>Infinite (notch filter)</source>
         <translation>Infini (filtre notch)</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="871"/>
+        <location filename="mw.ui" line="869"/>
         <source> dB</source>
         <translation>dB</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="890"/>
+        <location filename="mw.ui" line="888"/>
         <source>  Center frequency Hz</source>
         <translation>Fréquence centrale Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="902"/>
+        <location filename="mw.ui" line="900"/>
         <source>Other Filters</source>
         <translation>Autres filtres</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="914"/>
+        <location filename="mw.ui" line="912"/>
         <source>Peaking and notch filter</source>
         <translation>Filtre Pic et notch</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="921"/>
+        <location filename="mw.ui" line="919"/>
         <source>  Q Factor</source>
         <translation>Q Facteur</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="928"/>
+        <location filename="mw.ui" line="926"/>
         <source>Inertia</source>
         <translation>Inertie</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="938"/>
-        <location filename="mw.ui" line="982"/>
-        <location filename="mw.ui" line="1485"/>
-        <location filename="mw.ui" line="1527"/>
-        <location filename="mw.ui" line="1621"/>
-        <location filename="mw.ui" line="1783"/>
-        <location filename="mw.ui" line="1855"/>
-        <location filename="mw.ui" line="1885"/>
+        <location filename="mw.ui" line="936"/>
+        <location filename="mw.ui" line="980"/>
+        <location filename="mw.ui" line="1483"/>
+        <location filename="mw.ui" line="1552"/>
+        <location filename="mw.ui" line="1612"/>
+        <location filename="mw.ui" line="1731"/>
+        <location filename="mw.ui" line="1809"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1000"/>
+        <location filename="mw.ui" line="998"/>
         <source>SimuCUBE Force Reconstruction filter™</source>
         <translation>Filtre SimuCUBE Force Reconstructionr™</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1007"/>
-        <location filename="mw.ui" line="1475"/>
+        <location filename="mw.ui" line="1005"/>
+        <location filename="mw.ui" line="1473"/>
         <source>Friction</source>
         <translation>Friction</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1020"/>
+        <location filename="mw.ui" line="1018"/>
         <source>DirectInput Effects</source>
         <translation>Effets du Jeu</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1035"/>
+        <location filename="mw.ui" line="1033"/>
         <source>Off</source>
         <translation>Off</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1040"/>
+        <location filename="mw.ui" line="1038"/>
         <source>1 Minimum, &quot;fast&quot;</source>
         <translation>1 Minimum, &quot;rapide&quot;</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1045"/>
+        <location filename="mw.ui" line="1043"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1050"/>
+        <location filename="mw.ui" line="1048"/>
         <source>3</source>
         <translation>3</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1055"/>
+        <location filename="mw.ui" line="1053"/>
         <source>4</source>
         <translation>4</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1060"/>
+        <location filename="mw.ui" line="1058"/>
         <source>5</source>
         <translation>5</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1065"/>
+        <location filename="mw.ui" line="1063"/>
         <source>6</source>
         <translation>6</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1070"/>
+        <location filename="mw.ui" line="1068"/>
         <source>7</source>
         <translation>7</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1075"/>
+        <location filename="mw.ui" line="1073"/>
         <source>8</source>
         <translation>8</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1080"/>
+        <location filename="mw.ui" line="1078"/>
         <source>9</source>
         <translation>9</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1085"/>
+        <location filename="mw.ui" line="1083"/>
         <source>10 Maximum, &quot;slow&quot;</source>
         <translation>10 Maximum, &quot;lent&quot;</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1093"/>
+        <location filename="mw.ui" line="1091"/>
         <source>Maximum 24 characters</source>
         <translation>Maximum 24 caractères</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1096"/>
+        <location filename="mw.ui" line="1094"/>
         <source>Profile name</source>
         <translation>Nom du profil</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1106"/>
+        <location filename="mw.ui" line="1104"/>
         <source>Bumpstop range (from axis limit)</source>
         <translation>Plage de rotation jusqu&apos;aux butées</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1113"/>
+        <location filename="mw.ui" line="1111"/>
         <source>xx.xx A</source>
         <translation>xx.xx A</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1120"/>
-        <location filename="mw.ui" line="1253"/>
-        <location filename="mw.ui" line="1644"/>
+        <location filename="mw.ui" line="1118"/>
+        <location filename="mw.ui" line="1251"/>
+        <location filename="mw.ui" line="1628"/>
         <source>°</source>
         <translation>°</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1142"/>
+        <location filename="mw.ui" line="1140"/>
         <source>General</source>
         <translation>Général</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1149"/>
+        <location filename="mw.ui" line="1147"/>
         <source>Steering range</source>
         <translation>Plage de rotation volant</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1156"/>
+        <location filename="mw.ui" line="1154"/>
         <source>Overall strength</source>
         <translation>Force volant</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1187"/>
+        <location filename="mw.ui" line="1185"/>
         <source>100 Hz</source>
         <translation>100 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1192"/>
+        <location filename="mw.ui" line="1190"/>
         <source>150 Hz</source>
         <translation>150 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1197"/>
+        <location filename="mw.ui" line="1195"/>
         <source>220 Hz</source>
         <translation>220 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1202"/>
+        <location filename="mw.ui" line="1200"/>
         <source>330 Hz</source>
         <translation>330 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1207"/>
+        <location filename="mw.ui" line="1205"/>
         <source>470 Hz</source>
         <translation>470 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1212"/>
+        <location filename="mw.ui" line="1210"/>
         <source>680 Hz</source>
         <translation>680 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1217"/>
+        <location filename="mw.ui" line="1215"/>
         <source>1000 Hz</source>
         <translation>1000 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1222"/>
+        <location filename="mw.ui" line="1220"/>
         <source>1500 Hz</source>
         <translation>1500 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1227"/>
+        <location filename="mw.ui" line="1225"/>
         <source>2200 Hz</source>
         <translation>2200 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1232"/>
+        <location filename="mw.ui" line="1230"/>
         <source>3300 Hz</source>
         <translation>3300 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1237"/>
+        <location filename="mw.ui" line="1235"/>
         <source>4700 Hz</source>
         <translation>4700 Hz</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1242"/>
+        <location filename="mw.ui" line="1240"/>
         <source>Unlimited</source>
         <translation>Illimité</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1250"/>
+        <location filename="mw.ui" line="1248"/>
         <source>Works only if bumpstops are enabled. Negative values are also accepted.</source>
         <translation>Ne fonctionne seulement que si les butées sont activées. Des valeurs négatives sont aussi acceptées.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1274"/>
+        <location filename="mw.ui" line="1272"/>
         <source>Torque bandwidth limit</source>
         <translation>Limite bande passante de la force</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1287"/>
+        <location filename="mw.ui" line="1285"/>
         <source>These filter settings will overwrite any values set in Granity. User doesn&apos;t need to set any values in Granity.</source>
         <translation>Ces réglages filtres vont remplacer tous les réglages identiques dans Granity. Vous n&apos;avez pas besoin de régler ces filtres dans Granity.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1290"/>
+        <location filename="mw.ui" line="1288"/>
         <source>Filters on IONI drive</source>
         <translation>Filtres gérés par la IONI</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1297"/>
+        <location filename="mw.ui" line="1295"/>
         <source>Strength</source>
         <translation>Force</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1320"/>
+        <location filename="mw.ui" line="1318"/>
         <source>50%</source>
         <translation>50%</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1360"/>
+        <location filename="mw.ui" line="1358"/>
         <source>Spring</source>
         <translation>Ressort</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1390"/>
+        <location filename="mw.ui" line="1388"/>
         <source>Only space, A-Z, a-z, 0-9, -_()/ are accepted. Maximum length of profile name is 24 characters.</source>
         <translation>Seulement Espace, a-z, 0-9, -_()/ sont acceptés. Longueur maximum du nom du profil 24 caractères.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1408"/>
+        <location filename="mw.ui" line="1406"/>
         <source>space, a-z,A-Z,0-9,-_()/</source>
         <translation>Espace, a-z, 0-9,-_()/</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1415"/>
+        <location filename="mw.ui" line="1413"/>
         <source>Sine wave</source>
         <translation>Sinus</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1501"/>
+        <location filename="mw.ui" line="1499"/>
         <source>Hardware Setup</source>
         <translation>Réglage Hardware</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1520"/>
+        <location filename="mw.ui" line="1531"/>
         <source>Maximum Motor Current</source>
         <translation>Intensité Maximale moteur</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1544"/>
+        <location filename="mw.ui" line="1545"/>
         <source>Centering Spring Enabled</source>
         <translation>Ressort de centrage activé</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1564"/>
+        <location filename="mw.ui" line="1585"/>
         <source>mmc A</source>
         <translation>mmc A</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1574"/>
+        <location filename="mw.ui" line="1565"/>
         <source>Configure motor, encoder and center point</source>
         <translation>Configurez le moteur, l&apos;encodeur et le point central</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1581"/>
+        <location filename="mw.ui" line="1572"/>
         <source>Distance from the bumpstop where the bumpstop force starts to ramp up.</source>
         <translation>Point en amont de la butée à partir duquel la la force correspondant à la butée va progressivement s&apos;appliquer.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1587"/>
+        <location filename="mw.ui" line="1578"/>
         <source>Bumpstop effect ramp range</source>
         <translation>Effet force butée progressive</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1594"/>
+        <location filename="mw.ui" line="1592"/>
         <source>Resistance effect to prevent overly quick bounces away from bumpstop. Range is 0 % - 200 %.</source>
         <translation>Effet amorti pour éviter des rebonds intempestifs liés à la butée. La plage de ce réglage va de 0 % à 200 %.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1600"/>
+        <location filename="mw.ui" line="1598"/>
         <source>Bumpstop damping effect</source>
         <translation>Butée effet amorti</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1607"/>
+        <location filename="mw.ui" line="1648"/>
         <source>xxx CPR</source>
         <translation>xxx CPR</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1614"/>
+        <location filename="mw.ui" line="1605"/>
         <source>Encoder Counts Per Revolution</source>
         <translation>Résolution encodeur par tour</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1637"/>
+        <location filename="mw.ui" line="1641"/>
         <source>Indexing mode is unknown</source>
         <translation>L&apos;index est inconnu</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1664"/>
+        <location filename="mw.ui" line="1662"/>
         <source>Audible notification beeps</source>
         <translation>Entendre les bips sonores de notifications</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1674"/>
+        <location filename="mw.ui" line="1669"/>
+        <source>Saturation (maximum force)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1679"/>
         <source>Indexing mode</source>
         <translation>Mode recherche de l&apos;index</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1684"/>
+        <location filename="mw.ui" line="1689"/>
         <source>Bumpstop maximum strength</source>
         <translation>Force maximale de la butée</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1691"/>
         <source>Saturation (minimum force)</source>
-        <translation>Saturation ( force minimale)</translation>
+        <translation type="vanished">Saturation ( force minimale)</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1705"/>
+        <location filename="mw.ui" line="1703"/>
         <source>Desktop Centering Spring</source>
         <translation>Ressort de centrage bureau</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1776"/>
         <source>Note: damping does not work yet.</source>
-        <translation>Note : le filtre amorti ne fonctionne pas encore</translation>
+        <translation type="vanished">Note : le filtre amorti ne fonctionne pas encore</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1807"/>
+        <location filename="mw.ui" line="1724"/>
         <source>Bumbstop Effect</source>
         <translation>Effet Butée</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1828"/>
+        <location filename="mw.ui" line="1761"/>
         <source>General information</source>
         <translation>Information générale</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1838"/>
+        <location filename="mw.ui" line="1771"/>
         <source>Bumpstop effect enabled</source>
         <translation>Effet butée actif</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1845"/>
+        <location filename="mw.ui" line="1778"/>
         <source>Analog axis configuration is only available when SimuCUBE operating mode is Operational.</source>
         <translation>La configuration des axes analogiques n&apos;est possible que quand le fonctionnement de la SimuCube est OK.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1848"/>
+        <location filename="mw.ui" line="1781"/>
         <source>Configure Analog Inputs</source>
         <translation>Configurer les entrées analogiques</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1871"/>
+        <location filename="mw.ui" line="1788"/>
         <source>Centering Spring Strength</source>
         <translation>Force du ressort de centrage</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1878"/>
+        <location filename="mw.ui" line="1795"/>
         <source>Audible notifications enabled</source>
         <translation>Notification par Beep activée</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1918"/>
+        <location filename="mw.ui" line="1831"/>
         <source>Update Firmware</source>
         <translation>Mise à jour firmware</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1939"/>
+        <location filename="mw.ui" line="1852"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1985"/>
+        <location filename="mw.ui" line="1898"/>
         <source>SimuCUBE firmware version</source>
         <translation>Version SimuCube</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1992"/>
+        <location filename="mw.ui" line="1905"/>
         <source>Configuration tool version</source>
         <translation>Version outil de configuration</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2006"/>
+        <location filename="mw.ui" line="1919"/>
         <source>IONI drive firmware version</source>
         <translation>Version firmware IONI</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2013"/>
+        <location filename="mw.ui" line="1926"/>
         <source>SimuCUBE hardware version</source>
         <translation>Version hardware SimuCube</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2027"/>
+        <location filename="mw.ui" line="1940"/>
         <source>Toggle IONI USB configuration</source>
         <translation>Basculer vers l&apos;USB x4 pour configurer la IONI</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2034"/>
+        <location filename="mw.ui" line="1947"/>
         <source>Enables/Disables IONI configuration via USB</source>
         <translation>Active/Désactive le configuration de la IONI via l&apos;USB x4</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2044"/>
+        <location filename="mw.ui" line="1957"/>
         <source>Warning: Resets all settings to default</source>
         <translation>Attention : cela réinitialise tous les réglages</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2054"/>
+        <location filename="mw.ui" line="1967"/>
         <source>Start everything from scratch</source>
         <translation>Commencer à partir de 0</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2070"/>
+        <location filename="mw.ui" line="1983"/>
         <source>Reload settings from SimuCUBE</source>
         <translation>Recharger les réglages de SimuCube</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2124"/>
+        <location filename="mw.ui" line="2037"/>
         <source>Created FFB Effects. Bolded effects have been actively changed by the game in last 30 seconds.</source>
         <translation>Effets FFB en jeu. Les effets avec un point noirs sont ceux utilisés par le jeu dans les dernières 30 secondes.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2134"/>
+        <location filename="mw.ui" line="2047"/>
         <source>This deletes all effect from effect memory. Useful if a game has crashed and some effects have been left running.</source>
         <translation>Cette opération éffacera tous les effets FFB de la mémoire. Utile si le jeu a crashé et que des effets FFB indésirables perdurent.</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2137"/>
+        <location filename="mw.ui" line="2050"/>
         <source>Reset FFB device state</source>
         <translation>Remise à 0 du FFB</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2181"/>
+        <location filename="mw.ui" line="2094"/>
         <source>Download debug event log</source>
         <translation>Charger le compte rendu des bugs</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2192"/>
+        <location filename="mw.ui" line="2105"/>
         <source>Normal events and state changes</source>
         <translation>Evénements normaux et changements d&apos;état</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2197"/>
+        <location filename="mw.ui" line="2110"/>
         <source>FFB effect creation, deletion and activation</source>
         <translation>Effets FFB, remise à 0 et activation</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2202"/>
+        <location filename="mw.ui" line="2115"/>
         <source>FFB effect value data (warning: fills log very fast)</source>
         <translation>Donnée relative aux effets FFB (Attention les données remplissent le compte rendu très rapidemment)</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2210"/>
+        <location filename="mw.ui" line="2123"/>
         <source>Set this log verbosity level</source>
         <translation>Définir le niveau de précision du compte rendu</translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2250"/>
+        <location filename="mw.ui" line="2200"/>
         <source>Save settings to SimuCUBE</source>
         <translation>Sauver les réglages dans la SimuCube</translation>
     </message>
@@ -1367,8 +1368,8 @@
     </message>
     <message>
         <location filename="mw.cpp" line="1074"/>
-        <location filename="mw.cpp" line="1789"/>
-        <location filename="mw.cpp" line="1820"/>
+        <location filename="mw.cpp" line="1793"/>
+        <location filename="mw.cpp" line="1824"/>
         <source>lock-to-lock</source>
         <translation>de buté à buté</translation>
     </message>
@@ -1378,37 +1379,38 @@
         <translation>désactivé</translation>
     </message>
     <message>
+        <location filename="mw.ui" line="2166"/>
         <location filename="mw.cpp" line="1494"/>
         <source>Settings applied automatically - save to make them permanent</source>
         <translation>Les réglages sont appliqués automatiquement - sauvegarder les pour les rendre permanents</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1510"/>
+        <location filename="mw.cpp" line="1513"/>
         <source>Settings up to date in permanent memory</source>
         <translation>Réglages mis à jours dans la mémoire permanente</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1719"/>
+        <location filename="mw.cpp" line="1723"/>
         <source>Unsafe to apply or save settings - would cause immediate torque!</source>
         <translation>Dangereux d&apos;appliquer ou de sauvegarder les reglages - cela peut causer une rotation violante du volant!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2108"/>
+        <location filename="mw.cpp" line="2112"/>
         <source>Profile exported.</source>
         <translation>Profil exporté.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2133"/>
+        <location filename="mw.cpp" line="2137"/>
         <source>File is empty.</source>
         <translation>Le fichier est vide.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2139"/>
+        <location filename="mw.cpp" line="2143"/>
         <source>Profiles imported.</source>
         <translation>Profils importés.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2457"/>
+        <location filename="mw.cpp" line="2461"/>
         <source>Event Log</source>
         <translation>Compte rendu</translation>
     </message>
@@ -1416,7 +1418,7 @@
 <context>
     <name>QLabel</name>
     <message>
-        <location filename="mw.cpp" line="2214"/>
+        <location filename="mw.cpp" line="2218"/>
         <source>This is the default profile.</source>
         <translation>C&apos;est le profil par défaut.</translation>
     </message>
@@ -1696,42 +1698,42 @@
 <context>
     <name>motorconfigwizard_indexingselect</name>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="10"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="11"/>
         <source>Select indexing mode.</source>
         <translation>Sélectionner la méthode de calibrage.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="11"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="12"/>
         <source>Choose the method to use for indexing your wheel.</source>
         <translation>Selectionner la méthode pour calibrer le volant au démarrage.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="12"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="13"/>
         <source>%1 Automatic point in reference to the position after initialization. %2</source>
         <translation>%1  automatique %2</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="14"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="15"/>
         <source>Wheel must be approximately centered when SimuCUBE is powered on, wheel will be usable immediately after Initilization is completed. See User Guide for further information.</source>
         <translation>Le volant doit être à peu prêt centré quand on allume la SimuCube. Le volant sera utilisable immédiatement une fois le calibrage terminé. Voir le guide de l&apos;utilisateur pour plus &apos;information.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="15"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="16"/>
         <source>%1 Manual, in reference to encoder physical index %2</source>
         <translation>%1 Manuel %2</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="17"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="18"/>
         <source>Wheel may be at any position when SimuCUBE is powered on but must be turned enough (maximum 180 degrees in each direction) to detect encoder index point after phasing for wheel to be usable. See User Guide for further information.</source>
         <translation>Le volant peut être dans n&apos;importe quelle position au démarrage mais vous devrez le faire tourner manuellement (au maximum de 180° dans chaque direction) pour qu&apos;il puisse fonctionner. Voir le guide de l&apos;utilisateur pour plus d&apos;information.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="18"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="19"/>
         <source>Automatic, in reference to position after Initilization.</source>
         <translation>Automatique.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_indexingselect.cpp" line="19"/>
+        <location filename="motorconfigwizard_indexingselect.cpp" line="20"/>
         <source>Manual, in reference to encoder physical index.</source>
         <translation>Manuel.</translation>
     </message>
