@@ -353,7 +353,7 @@
     <message>
         <location filename="mw.ui" line="17"/>
         <source>SimuCUBE Configuration Tool</source>
-        <translation>Outil de Configuration SimuCube</translation>
+        <translation>Outil de Configuration SimuCUBE</translation>
     </message>
     <message>
         <location filename="mw.ui" line="65"/>
@@ -978,7 +978,7 @@
     <message>
         <location filename="mw.ui" line="1898"/>
         <source>SimuCUBE firmware version</source>
-        <translation>Version SimuCube</translation>
+        <translation>Version SimuCUBE</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1905"/>
@@ -993,7 +993,7 @@
     <message>
         <location filename="mw.ui" line="1926"/>
         <source>SimuCUBE hardware version</source>
-        <translation>Version hardware SimuCube</translation>
+        <translation>Version hardware SimuCUBE</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1940"/>
@@ -1063,7 +1063,7 @@
     <message>
         <location filename="mw.ui" line="2200"/>
         <source>Save settings to SimuCUBE</source>
-        <translation>Sauver les réglages dans la SimuCube</translation>
+        <translation>Sauver les réglages dans la SimuCUBE</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="119"/>
@@ -1454,7 +1454,7 @@
         <location filename="fwupdatewizard_intropage.cpp" line="23"/>
         <location filename="fwupdatewizard_intropage.cpp" line="80"/>
         <source>%1This wizard will update or reflash the firmware on the SimuCUBE.%2</source>
-        <translation>%1Cet assistant va mettre à jour ou reflasher le firmware sur la SimuCube.%2</translation>
+        <translation>%1Cet assistant va mettre à jour ou reflasher le firmware sur la SimuCUBE.%2</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_intropage.cpp" line="25"/>
@@ -1505,7 +1505,7 @@
     <message>
         <location filename="fwupdatewizard_successpage.cpp" line="17"/>
         <source>SimuCUBE firmware update is now successfully complete. SimuCUBE should be booting up the new firmware. When you click %1 Finish %2 the SimuCUBE Configuration tool will close. If SimuCUBE does not seem to start, please try to turn SimuCUBE off and then on again.</source>
-        <translation>La miseà jour du firmware SimuCube a été réalisé avec succés. La SimuCube doit lancer ce nouveau firmware. Pour ce faire, quand vous aurez cliqué sur %1 Terminer %2 l&apos;outil de configuration va fermer. Si la SimuCube n&apos;a pas l&apos;air de vouloir redémarrer, SVP éteignez là et relancez là.</translation>
+        <translation>La miseà jour du firmware SimuCUBE a été réalisé avec succés. La SimuCUBE doit lancer ce nouveau firmware. Pour ce faire, quand vous aurez cliqué sur %1 Terminer %2 l&apos;outil de configuration va fermer. Si la SimuCUBE n&apos;a pas l&apos;air de vouloir redémarrer, SVP éteignez là et relancez là.</translation>
     </message>
 </context>
 <context>
@@ -1544,7 +1544,7 @@
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="68"/>
         <source>Unable to open SimuCUBE flash file.</source>
-        <translation>Impossible d&apos;ouvrir le fichier flash Simucube.</translation>
+        <translation>Impossible d&apos;ouvrir le fichier flash SimuCUBE.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="72"/>
@@ -1577,7 +1577,7 @@
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="147"/>
         <source>Unable to send SimuCUBE flash file to the board.</source>
-        <translation>Impossible de charger le fichier SimuCube flash sur la carte.</translation>
+        <translation>Impossible de charger le fichier SimuCUBE flash sur la carte.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="151"/>
@@ -1598,12 +1598,12 @@
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="212"/>
         <source>Connection to the SimuCUBE lost.</source>
-        <translation>La connection avec la SimuCube est interrompue.</translation>
+        <translation>La connection avec la SimuCUBE est interrompue.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="219"/>
         <source>SimuCUBE returned wrong checksum from received data, causing the firmware update to fail.</source>
-        <translation>La SimuCube a trouvé des données corrompues concernant les données reçues entrainant l&apos;impossibilité de mettre à jour le firmware.</translation>
+        <translation>La SimuCUBE a trouvé des données corrompues concernant les données reçues entrainant l&apos;impossibilité de mettre à jour le firmware.</translation>
     </message>
 </context>
 <context>
@@ -1611,27 +1611,27 @@
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="15"/>
         <source>Searching for SimuCUBE</source>
-        <translation>Recherche de la SimuCube</translation>
+        <translation>Recherche de la SimuCUBE</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="27"/>
         <source>Searching for SimuCUBE in Firmware Upgrade Mode. This should take up to 30 seconds.</source>
-        <translation>Recherche de la SimuCube en mode &quot;mise à jour Firmware&quot;. Cela peut prendre 30 secondes.</translation>
+        <translation>Recherche de la SimuCUBE en mode &quot;mise à jour Firmware&quot;. Cela peut prendre 30 secondes.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="49"/>
         <source>Found SimuCUBE in Firmware Upgrade Mode. Press %1 Next %2 to continue.</source>
-        <translation>La SimuCube est en mode &quot;Mise à jour Firmware&quot;. Cliquez sur 1% Suivant %2 pour continuer.</translation>
+        <translation>La SimuCUBE est en mode &quot;Mise à jour Firmware&quot;. Cliquez sur 1% Suivant %2 pour continuer.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="56"/>
         <source>Searching for SimuCUBE in Firmware Upgrade Mode.</source>
-        <translation>Recherche de la SimuCube en mode &quot;mise à jour Firmware&quot;.</translation>
+        <translation>Recherche de la SimuCUBE en mode &quot;mise à jour Firmware&quot;.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="62"/>
         <source>Error: SimuCUBE did not boot in Firmware Upgrade Mode in 30 seconds. Cause might be Windows driver install that takes long time. Please see if there is a SimuCUBE in Firmware Upgrade mode -device visible in Device manager. If there is, you can retry. In case there is no device visible, unplugging and replugging SimuCUBE might help to force Windows to enumerate the device. Power cycling the SimuCUBE and trying update again can also be succesful as Windows will already know the device on the 2nd try.</source>
-        <translation>Erreur : La SimuCube ne s&apos;est pas configurée en mode &quot;Mise à jour Firmware&quot; depuis 30 secondes.L&apos;explication peut venir de l&apos;installation du driverWindows qui prend trop de temps. SVP regardez si la SimuCube en mode &quot;Mise à jour Firmware&quot; apparait dans le gestionnaire de périphériques. Si elle y est, vous pouvez réssayer. Sinon, débranchez et rebranchez la SimuCube peut forcer Windows à reconnaitre le périphérique. Ensuite, eEteindre et rallumer la Simucube peut également permettre au processus de fonctionner car Windows connaitra déjà le périphérique lors de cette seconde tentative.</translation>
+        <translation>Erreur : La SimuCUBE ne s&apos;est pas configurée en mode &quot;Mise à jour Firmware&quot; depuis 30 secondes.L&apos;explication peut venir de l&apos;installation du driverWindows qui prend trop de temps. SVP regardez si la SimuCUBE en mode &quot;Mise à jour Firmware&quot; apparait dans le gestionnaire de périphériques. Si elle y est, vous pouvez réssayer. Sinon, débranchez et rebranchez la SimuCUBE peut forcer Windows à reconnaitre le périphérique. Ensuite, eEteindre et rallumer la SimuCUBE peut également permettre au processus de fonctionner car Windows connaitra déjà le périphérique lors de cette seconde tentative.</translation>
     </message>
 </context>
 <context>
@@ -1692,7 +1692,7 @@
     <message>
         <location filename="motorconfigwizard_conclusion.cpp" line="12"/>
         <source>Settings are also saved to SimuCUBE flash memory and the system will initialize automatically at next startup.</source>
-        <translation>Les réglages sont enregistrés dans la mémoire Flash de la SimuCube et seront les réglages par défaut à chaque démarrage.</translation>
+        <translation>Les réglages sont enregistrés dans la mémoire Flash de la SimuCUBE et seront les réglages par défaut à chaque démarrage.</translation>
     </message>
 </context>
 <context>
@@ -1715,7 +1715,7 @@
     <message>
         <location filename="motorconfigwizard_indexingselect.cpp" line="15"/>
         <source>Wheel must be approximately centered when SimuCUBE is powered on, wheel will be usable immediately after Initilization is completed. See User Guide for further information.</source>
-        <translation>Le volant doit être à peu prêt centré quand on allume la SimuCube. Le volant sera utilisable immédiatement une fois le calibrage terminé. Voir le guide de l&apos;utilisateur pour plus &apos;information.</translation>
+        <translation>Le volant doit être à peu prêt centré quand on allume la SimuCUBE. Le volant sera utilisable immédiatement une fois le calibrage terminé. Voir le guide de l&apos;utilisateur pour plus &apos;information.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_indexingselect.cpp" line="16"/>
@@ -1791,7 +1791,7 @@
     <message>
         <location filename="motorconfigwizard_intropage.cpp" line="19"/>
         <source>You will be able to set up your SimuCUBE by selecting a motor configuration file from the provided list or use your existing configuration stored on the IONI drive installed on your SimuCUBE.</source>
-        <translation>Vous pouvez également configurer votre SimuCube en sélectionnant un fichier moteur existant ou en utilisant les réglages présents sur la carte IONI présente sur votre SimuCube.</translation>
+        <translation>Vous pouvez également configurer votre SimuCUBE en sélectionnant un fichier moteur existant ou en utilisant les réglages présents sur la carte IONI présente sur votre SimuCUBE.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_intropage.cpp" line="22"/>
@@ -1842,12 +1842,12 @@
     <message>
         <location filename="motorconfigwizard_resetnote.cpp" line="7"/>
         <source>Warning: Continuing past this page will reset SimuCUBE hardware settings.</source>
-        <translation>Attention: Continuer le processus engendrera un reset complet de tous les réglages effectués sur la SimuCube.</translation>
+        <translation>Attention: Continuer le processus engendrera un reset complet de tous les réglages effectués sur la SimuCUBE.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_resetnote.cpp" line="8"/>
         <source>When you click %1 Next %2 the SimuCUBE will enter configuration mode. The configuration wizard must then be completed fully for the SimuCUBE to operate properly.</source>
-        <translation>Quand vous cliquez sur %1 Suivant %2 la SimuCube entrera dans le mode configuration. Ce processus de configuration doit être poursuivi jusqu&apos;au bout pour que la SimuCube puisse fonctionner normalement.</translation>
+        <translation>Quand vous cliquez sur %1 Suivant %2 la SimuCUBE entrera dans le mode configuration. Ce processus de configuration doit être poursuivi jusqu&apos;au bout pour que la SimuCube puisse fonctionner normalement.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_resetnote.cpp" line="9"/>
@@ -1921,17 +1921,17 @@
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="12"/>
         <source>%1You have unsaved settings in SimuCUBE.%2</source>
-        <translation>%1Vous avez des réglages non sauvegardés dans SimuCube.%2</translation>
+        <translation>%1Vous avez des réglages non sauvegardés dans SimuCUBE.%2</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="13"/>
         <source>Your unsaved settings will be either saved to SimuCUBE, or you can reload the last saved settings. Choose your preferred action.</source>
-        <translation>Vos réglages non sauvegardés peuvent être sauvegardé dans SimuCube, ou vous pouvez recharger les derniers réglages sauvegardés. Choisissez quelle option vous compter choisir.</translation>
+        <translation>Vos réglages non sauvegardés peuvent être sauvegardé dans SimuCUBE, ou vous pouvez recharger les derniers réglages sauvegardés. Choisissez quelle option vous compter choisir.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="36"/>
         <source>Save settings to SimuCUBE and continue wizard.</source>
-        <translation>Sauvegarder vos réglages dans SimuCube et continuer l&apos;assistant de configuration.</translation>
+        <translation>Sauvegarder vos réglages dans SimuCUBE et continuer l&apos;assistant de configuration.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="37"/>
@@ -2078,7 +2078,7 @@ This dialog will automatically close when you have centered the wheel.</source>
     <message>
         <location filename="toonewfirmwareprompt.ui" line="20"/>
         <source>The firmware detected on your SimuCUBE is too new for this Configuration Tool version to handle. Please use the tool that was supplied with the new firmware version.</source>
-        <translation>Le firmware détecté sur votre SimuCube est trop récent pour la version Outil de Configuration utilisée. SVP utilisez l&apos;Outil de Configuration donné avec la nouvelle version du firmware.</translation>
+        <translation>Le firmware détecté sur votre SimuCUBE est trop récent pour la version Outil de Configuration utilisée. SVP utilisez l&apos;Outil de Configuration donné avec la nouvelle version du firmware.</translation>
     </message>
 </context>
 </TS>
