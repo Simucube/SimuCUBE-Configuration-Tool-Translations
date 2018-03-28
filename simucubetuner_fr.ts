@@ -905,7 +905,7 @@
     <message>
         <location filename="mw.ui" line="1669"/>
         <source>Saturation (maximum force)</source>
-        <translation type="unfinished"></translation>
+        <translation>Saturation (force maximum)</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1679"/>
@@ -1916,27 +1916,27 @@
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="11"/>
         <source>Unsaved settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Réglages non sauvegardés</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="12"/>
         <source>%1You have unsaved settings in SimuCUBE.%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1Vous avez des réglages non sauvegardés dans SimuCube.%2</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="13"/>
         <source>Your unsaved settings will be either saved to SimuCUBE, or you can reload the last saved settings. Choose your preferred action.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vos réglages non sauvegardés peuvent être sauvegardé dans SimuCube, ou vous pouvez recharger les derniers réglages sauvegardés. Choisissez quelle option vous compter choisir.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="36"/>
         <source>Save settings to SimuCUBE and continue wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder vos réglages dans SimuCube et continuer l&apos;assistant de configuration.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_settingschanged.cpp" line="37"/>
         <source>Reload last saved settings and continue the wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recharger les derniers réglages sauvegardés et continuer l&apos;assistant de configuration.</translation>
     </message>
 </context>
 <context>
