@@ -1066,351 +1066,351 @@
         <translation>Sauver les réglages dans la SimuCUBE</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="119"/>
-        <location filename="mw.cpp" line="565"/>
+        <location filename="mw.cpp" line="120"/>
+        <location filename="mw.cpp" line="584"/>
         <source>Disconnected</source>
         <translation>Déconnecté</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="122"/>
-        <location filename="mw.cpp" line="568"/>
-        <location filename="mw.cpp" line="575"/>
-        <location filename="mw.cpp" line="601"/>
+        <location filename="mw.cpp" line="123"/>
+        <location filename="mw.cpp" line="587"/>
+        <location filename="mw.cpp" line="594"/>
+        <location filename="mw.cpp" line="620"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="123"/>
-        <location filename="mw.cpp" line="866"/>
-        <location filename="mw.cpp" line="1396"/>
+        <location filename="mw.cpp" line="124"/>
+        <location filename="mw.cpp" line="885"/>
+        <location filename="mw.cpp" line="1415"/>
         <source>Enable Ioni USB configuration</source>
         <translation>Démarrer la configuration de la IONI</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="161"/>
+        <location filename="mw.cpp" line="162"/>
         <source>Powered by Granite Devices SimuCUBE</source>
         <translation>Powered by Granite Devices SimuCUBE</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="188"/>
+        <location filename="mw.cpp" line="189"/>
         <source>%1 Click here for updates %2</source>
         <translation>%1 Cliquez ici pour les mises à jour %2</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="203"/>
+        <location filename="mw.cpp" line="205"/>
         <source>(Effect memory is empty)</source>
         <translation>(la mémoire FFB est vide)</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="387"/>
+        <location filename="mw.cpp" line="389"/>
         <source>Correct firmware is installed!</source>
         <translation>Un firmware valide est installé!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="607"/>
-        <location filename="mw.cpp" line="610"/>
+        <location filename="mw.cpp" line="626"/>
+        <location filename="mw.cpp" line="629"/>
         <source>Revision %1</source>
         <translation>Révision %1</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="614"/>
+        <location filename="mw.cpp" line="633"/>
         <source>Unknown hardware version</source>
         <translation>Version Hardware inconnue</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="620"/>
+        <location filename="mw.cpp" line="639"/>
         <source>E-Stop is PRESSED.</source>
         <translation>l&apos;E-STop est PRESSE.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="622"/>
-        <location filename="mw.cpp" line="683"/>
+        <location filename="mw.cpp" line="641"/>
+        <location filename="mw.cpp" line="702"/>
         <source>Motor Faults:</source>
         <translation>Fautes moteur:</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="624"/>
+        <location filename="mw.cpp" line="643"/>
         <source>Tracking Error!</source>
         <translation>Erreur suivi!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="627"/>
+        <location filename="mw.cpp" line="646"/>
         <source>Over Current!</source>
         <translation>Sur-intensité!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="630"/>
+        <location filename="mw.cpp" line="649"/>
         <source>Communication Fault!</source>
         <translation>Erreur communication!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="633"/>
+        <location filename="mw.cpp" line="652"/>
         <source>Encoder Fault!</source>
         <translation>Erreur encodeur!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="636"/>
+        <location filename="mw.cpp" line="655"/>
         <source>Over Temperature!</source>
         <translation>Surchauffe!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="640"/>
-        <location filename="mw.cpp" line="686"/>
+        <location filename="mw.cpp" line="659"/>
+        <location filename="mw.cpp" line="705"/>
         <source>Overvoltage threshold [FOV] must be &gt; 102% of HV BUS voltage</source>
         <translation>Sur-tension le seuil  [FOV] doit être supérieur de 102% au l maximum de tension fourni par l&apos;alimentation</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="643"/>
-        <location filename="mw.cpp" line="691"/>
+        <location filename="mw.cpp" line="662"/>
+        <location filename="mw.cpp" line="710"/>
         <source>Undervoltage!</source>
         <translation>Sous-tension!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="646"/>
-        <location filename="mw.cpp" line="696"/>
+        <location filename="mw.cpp" line="665"/>
+        <location filename="mw.cpp" line="715"/>
         <source>Overvoltage!</source>
         <translation>Sur-tension!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="649"/>
+        <location filename="mw.cpp" line="668"/>
         <source>Program Fault!</source>
         <translation>Erreur Programme!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="652"/>
+        <location filename="mw.cpp" line="671"/>
         <source>Hardware Fault!</source>
         <translation>Erreur hardware!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="655"/>
+        <location filename="mw.cpp" line="674"/>
         <source>Overvelocity!</source>
         <translation>Sur-vitesse!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="658"/>
+        <location filename="mw.cpp" line="677"/>
         <source>Initialization Fault!</source>
         <translation>Erreur calibrage!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="661"/>
+        <location filename="mw.cpp" line="680"/>
         <source>Motion Fault!</source>
         <translation>Erreur mouvement!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="664"/>
+        <location filename="mw.cpp" line="683"/>
         <source>Motion Range Fault!</source>
         <translation>Erreur plage de mouvement!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="667"/>
+        <location filename="mw.cpp" line="686"/>
         <source>Power Stage Forced Off!</source>
         <translation>Etage de puissance arrêté!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="670"/>
+        <location filename="mw.cpp" line="689"/>
         <source>Error with Host Communication!</source>
         <translation>Erreur avec la communication hôte!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="677"/>
-        <location filename="mw.cpp" line="702"/>
-        <location filename="mw.cpp" line="708"/>
-        <location filename="mw.cpp" line="726"/>
+        <location filename="mw.cpp" line="696"/>
+        <location filename="mw.cpp" line="721"/>
+        <location filename="mw.cpp" line="727"/>
+        <location filename="mw.cpp" line="745"/>
         <source>E-Stop status unknown.</source>
         <translation>Statut E-Stop inconnu.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="681"/>
+        <location filename="mw.cpp" line="700"/>
         <source>E-Stop is released.</source>
         <translation>Bouton d&apos;arrêt d&apos;urgence enclenché.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="771"/>
+        <location filename="mw.cpp" line="790"/>
         <source>Booting</source>
         <translation>Démarrage</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="775"/>
+        <location filename="mw.cpp" line="794"/>
         <source>Trying to initialize drive</source>
         <translation>Tentative d&apos;initialisation du pilote</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="779"/>
+        <location filename="mw.cpp" line="798"/>
         <source>Successfully initialized drive.</source>
         <translation>Le pilote a été initialisé avec succès.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="782"/>
+        <location filename="mw.cpp" line="801"/>
         <source>Couldn&apos;t connect to Ioni, reconnecting..</source>
         <translation>Connection avec la IONI impossible, nouvelle tentative..</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="786"/>
+        <location filename="mw.cpp" line="805"/>
         <source>Waiting for faults to clear. Release E-stop?</source>
         <translation>En attente d&apos;effaçage des erreurs. L&apos;arrêt d&apos;urgence est-il désenclenché?</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="790"/>
+        <location filename="mw.cpp" line="809"/>
         <source>Waiting for drive to get ready</source>
         <translation>En attente que le driver soit prêt</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="804"/>
+        <location filename="mw.cpp" line="823"/>
         <source>Hardware settings not yet configured.</source>
         <translation>Les réglages hardware ne sont pas encore effectués.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="808"/>
+        <location filename="mw.cpp" line="827"/>
         <source>Initializing parameters</source>
         <translation>Initialisation des paramètres</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="822"/>
+        <location filename="mw.cpp" line="841"/>
         <source>Drive firmware update error. Turn system off and on again.</source>
         <translation>Erreur mise à jour firmware du driver. Etteindre et rallumer la SimuCube.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="827"/>
+        <location filename="mw.cpp" line="846"/>
         <source>Autoupdating Ioni Firmware. %1 %</source>
         <translation>Mise à jour automatique Firmware IONI. %1 %</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="839"/>
-        <location filename="mw.cpp" line="843"/>
+        <location filename="mw.cpp" line="858"/>
+        <location filename="mw.cpp" line="862"/>
         <source>Settings changed, updating a few things...</source>
         <translation>Réglages changés, mise à jour de quelques éléments...</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="864"/>
+        <location filename="mw.cpp" line="883"/>
         <source>Operational</source>
         <translation>Opérationnel</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="880"/>
+        <location filename="mw.cpp" line="899"/>
         <source>Turn the wheel to find index point</source>
         <translation>Tourner le volant pour calibrage</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="884"/>
+        <location filename="mw.cpp" line="903"/>
         <source>Saving settings to SimuCUBE flash memory</source>
         <translation>Sauver les régalges dans la mémoire Flash de la SimuCube</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="887"/>
+        <location filename="mw.cpp" line="906"/>
         <source>Resetting all settings to default.</source>
         <translation>Remise à 0 de tous les réglages.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="890"/>
+        <location filename="mw.cpp" line="909"/>
         <source>Flash Memory Fault</source>
         <translation>Erreur mémoire flash</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="896"/>
+        <location filename="mw.cpp" line="915"/>
         <source>Ioni Granity Configuration Mode. Games will not work!</source>
         <translation>Mode configuration de la IONI via Granity. le volant ne fonctionnera pas en jeu!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="898"/>
-        <location filename="mw.cpp" line="1382"/>
+        <location filename="mw.cpp" line="917"/>
+        <location filename="mw.cpp" line="1401"/>
         <source>Disable Ioni USB configuration</source>
         <translation>Désactiver le mode configuration IONI USBx4</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="904"/>
+        <location filename="mw.cpp" line="923"/>
         <source>Applying DRC settings to drive</source>
         <translation>Appliquer les réglages DRC au driver</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="907"/>
+        <location filename="mw.cpp" line="926"/>
         <source>Error applying DRC settings to drive</source>
         <translation>Erreur en essayant de charger les réglages DRC au driver</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="911"/>
+        <location filename="mw.cpp" line="930"/>
         <source>Paused after drive init. Waiting for wizard.</source>
         <translation>En pause après l&apos;initialisation du driver. En attente de l&apos;assistant de configuration.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="915"/>
+        <location filename="mw.cpp" line="934"/>
         <source>Unknown operating mode!</source>
         <translation>Mode de fonctionnement inconnu!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="919"/>
+        <location filename="mw.cpp" line="938"/>
         <source>Debug: SMBus error counter (should not increase): %1</source>
         <translation>Debbugage :erreur compteur SMBus (ne devrait pas augmenter): %1</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="980"/>
+        <location filename="mw.cpp" line="999"/>
         <source>Manual indexing</source>
         <translation>Calibrage manuel</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="984"/>
+        <location filename="mw.cpp" line="1003"/>
         <source>In reference to initialization</source>
         <translation>En référence à l&apos;initialisation</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="988"/>
+        <location filename="mw.cpp" line="1007"/>
         <source>In reference to index point</source>
         <translation>En référence au point repère</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="992"/>
+        <location filename="mw.cpp" line="1011"/>
         <source>unknown??</source>
         <translation>inconnu??</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1055"/>
+        <location filename="mw.cpp" line="1074"/>
         <source>This is the default profile.</source>
         <translation>C&apos;est le profil par défaut.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1074"/>
-        <location filename="mw.cpp" line="1793"/>
-        <location filename="mw.cpp" line="1824"/>
+        <location filename="mw.cpp" line="1093"/>
+        <location filename="mw.cpp" line="1812"/>
+        <location filename="mw.cpp" line="1843"/>
         <source>lock-to-lock</source>
         <translation>de buté à buté</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1228"/>
+        <location filename="mw.cpp" line="1247"/>
         <source>disabled</source>
         <translation>désactivé</translation>
     </message>
     <message>
         <location filename="mw.ui" line="2166"/>
-        <location filename="mw.cpp" line="1494"/>
+        <location filename="mw.cpp" line="1513"/>
         <source>Settings applied automatically - save to make them permanent</source>
         <translation>Les réglages sont appliqués automatiquement - sauvegarder les pour les rendre permanents</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1513"/>
+        <location filename="mw.cpp" line="1532"/>
         <source>Settings up to date in permanent memory</source>
         <translation>Réglages mis à jours dans la mémoire permanente</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1723"/>
+        <location filename="mw.cpp" line="1742"/>
         <source>Unsafe to apply or save settings - would cause immediate torque!</source>
         <translation>Dangereux d&apos;appliquer ou de sauvegarder les reglages - cela peut causer une rotation violante du volant!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2112"/>
+        <location filename="mw.cpp" line="2131"/>
         <source>Profile exported.</source>
         <translation>Profil exporté.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2137"/>
+        <location filename="mw.cpp" line="2156"/>
         <source>File is empty.</source>
         <translation>Le fichier est vide.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2143"/>
+        <location filename="mw.cpp" line="2162"/>
         <source>Profiles imported.</source>
         <translation>Profils importés.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2461"/>
+        <location filename="mw.cpp" line="2481"/>
         <source>Event Log</source>
         <translation>Compte rendu</translation>
     </message>
@@ -1418,7 +1418,7 @@
 <context>
     <name>QLabel</name>
     <message>
-        <location filename="mw.cpp" line="2218"/>
+        <location filename="mw.cpp" line="2237"/>
         <source>This is the default profile.</source>
         <translation>C&apos;est le profil par défaut.</translation>
     </message>
@@ -2079,6 +2079,44 @@ This dialog will automatically close when you have centered the wheel.</source>
         <location filename="toonewfirmwareprompt.ui" line="20"/>
         <source>The firmware detected on your SimuCUBE is too new for this Configuration Tool version to handle. Please use the tool that was supplied with the new firmware version.</source>
         <translation>Le firmware détecté sur votre SimuCUBE est trop récent pour la version Outil de Configuration utilisée. SVP utilisez l&apos;Outil de Configuration donné avec la nouvelle version du firmware.</translation>
+    </message>
+</context>
+<context>
+    <name>unsupporteddrivemodelprompt</name>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="14"/>
+        <source>Unsupported Drive Model detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="20"/>
+        <source>IONI Standard has been installed in SimuCUBE.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="36"/>
+        <source>At least following features will not work:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="69"/>
+        <source>Torque notch and peaking filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="92"/>
+        <source>These features are always turned off. Setting different settings to them does not have any effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="105"/>
+        <source>List of unsupported features might grow in the future.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="59"/>
+        <source>SimuCUBE Reconstruction Filter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
