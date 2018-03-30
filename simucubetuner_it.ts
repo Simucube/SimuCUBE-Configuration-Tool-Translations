@@ -910,6 +910,11 @@
         <translation>Abilita suono di notifica</translation>
     </message>
     <message>
+        <location filename="mw.ui" line="1669"/>
+        <source>Saturation (maximum force)</source>
+        <translation>Saturazione (forza massima)</translation>
+    </message>
+    <message>
         <location filename="mw.ui" line="1674"/>
         <source>Indexing mode</source>
         <translation>Modalità centraggio</translation>
@@ -1920,6 +1925,34 @@
     </message>
 </context>
 <context>
+    <name>motorconfigwizard_settingsChanged</name>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="11"/>
+        <source>Unsaved settings</source>
+        <translation>Settaggi non salvati</translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="12"/>
+        <source>%1You have unsaved settings in SimuCUBE.%2</source>
+        <translation>%1 Hai dei settaggi non salvati in SimuCUBE. %2</translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="13"/>
+        <source>Your unsaved settings will be either saved to SimuCUBE, or you can reload the last saved settings. Choose your preferred action.</source>
+        <translation>I settaggi non salvati saranno o memorizzati su SimuCUBE, o puoi ricaricare gli ultimi settaggi salvati. Scegli che operazione effettuare.</translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="36"/>
+        <source>Save settings to SimuCUBE and continue wizard.</source>
+        <translation>Salva i settaggi sulla SimuCUBE e continua con la procedura guidata.</translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_settingschanged.cpp" line="37"/>
+        <source>Reload last saved settings and continue the wizard.</source>
+        <translation>Ricarica gli ultimi settaggi salvati e continua con la procedura guidata.</translation>
+    </message>
+</context>
+<context>
     <name>motorconfigwizard_waitindexpoint</name>
     <message>
         <location filename="motorconfigwizard_waitindexpoint.cpp" line="11"/>
@@ -2059,6 +2092,44 @@ Questo messaggio sarà chiuso automaticamente non appena centri il volante.</tra
         <location filename="toonewfirmwareprompt.ui" line="20"/>
         <source>The firmware detected on your SimuCUBE is too new for this Configuration Tool version to handle. Please use the tool that was supplied with the new firmware version.</source>
         <translation>Il firmware rilevato nella tua SimuCUBE è troppo nuovo rispetto la versione di questo tool di configurazione. Per favore utilizza il.giusto software distribuito con questa versione di firmware.</translation>
+    </message>
+</context>
+<context>
+    <name>unsupporteddrivemodelprompt</name>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="14"/>
+        <source>Unsupported Drive Model detected</source>
+        <translation>Identificato modello di Drive non supportato</translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="20"/>
+        <source>IONI Standard has been installed in SimuCUBE.</source>
+        <translation>Lo standard IONI è stato installato nella SimuCUBE.</translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="36"/>
+        <source>At least following features will not work:</source>
+        <translation>Almeno le seguenti funzionalità non funzioneranno:</translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="69"/>
+        <source>Torque notch and peaking filter</source>
+        <translation>Filtro di picco e valle della coppia</translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="92"/>
+        <source>These features are always turned off. Setting different settings to them does not have any effect.</source>
+        <translation>Queste funzionalità sono sempre spente. L&apos; impostare questi differenti settaggi non avrà nessun effetto.</translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="105"/>
+        <source>List of unsupported features might grow in the future.</source>
+        <translation>L&apos;elenco di funzionalità non supportate potrebbe crescere nel futuro.</translation>
+    </message>
+    <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="59"/>
+        <source>SimuCUBE Reconstruction Filter</source>
+        <translation>Filtro SimuCUBE di ricostruzione segnale</translation>
     </message>
 </context>
 </TS>
