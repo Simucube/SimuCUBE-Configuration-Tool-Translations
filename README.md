@@ -48,7 +48,7 @@ A: Yes. For missing languages, please write it as an issue or let us know otherw
 
 Q: Whats up with the %1 %2 etc. markers in the text?
 
-A: Usually, the are used to make the text **bold** with <b>, stop making text bold with </b>, or to add other html tags at those positions, for example, to generate the surrounded text as a link to a WWW site. Also, in some cases, a lonely %1 will get replaced by a numeric value. 
+A: Usually, the are used to make the text **bold** with a html tag, stop making text bold with html tag, or to add other html tags at those positions, for example, to generate the surrounded text as a link to a WWW site. Also, in some cases, a lonely %1 will get replaced by a numeric value. 
 
 
 
