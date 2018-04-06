@@ -378,7 +378,7 @@
     <message>
         <location filename="mw.ui" line="113"/>
         <source>E-STOP &amp; MOTOR STATUS: </source>
-        <translation>STATUTS BOUTON D&apos;ARRET D&apos;URGENCE ET MOTEUR:</translation>
+        <translation>STATUTS ARRET D&apos;URGENCE ET MOTEUR:</translation>
     </message>
     <message>
         <location filename="mw.ui" line="123"/>
@@ -473,12 +473,12 @@
     <message>
         <location filename="mw.ui" line="586"/>
         <source>Adds all profiles from simucubeprofiles.ini</source>
-        <translation>Importer tous les profils de simucubeprofiles.ini</translation>
+        <translation>Ajouter tous les profils de simucubeprofiles.ini</translation>
     </message>
     <message>
         <location filename="mw.ui" line="589"/>
         <source>Add profiles from file</source>
-        <translation>Importer les profils d&apos;un fichier</translation>
+        <translation>Ajouter des profils d&apos;un fichier</translation>
     </message>
     <message>
         <location filename="mw.ui" line="606"/>
@@ -488,7 +488,7 @@
     <message>
         <location filename="mw.ui" line="613"/>
         <source>Exports all profiles to simucubeprofiles.ini</source>
-        <translation>Exporter tous les profils versr simucubeprofiles.ini</translation>
+        <translation>Exporter tous les profils sur simucubeprofiles.ini</translation>
     </message>
     <message>
         <location filename="mw.ui" line="616"/>
@@ -503,7 +503,7 @@
     <message>
         <location filename="mw.ui" line="630"/>
         <source>Active</source>
-        <translation>Actif/Inactif</translation>
+        <translation>Actif</translation>
     </message>
     <message>
         <location filename="mw.ui" line="637"/>
@@ -586,12 +586,12 @@
     <message>
         <location filename="mw.ui" line="900"/>
         <source>Other Filters</source>
-        <translation>Effets</translation>
+        <translation>Autres filtres</translation>
     </message>
     <message>
         <location filename="mw.ui" line="912"/>
         <source>Peaking and notch filter</source>
-        <translation>écrêtage</translation>
+        <translation>Filtre Pic et notch</translation>
     </message>
     <message>
         <location filename="mw.ui" line="919"/>
@@ -617,7 +617,7 @@
     <message>
         <location filename="mw.ui" line="998"/>
         <source>SimuCUBE Force Reconstruction filter™</source>
-        <translation>Filtre Force Reconstruction SimuCUBE ™</translation>
+        <translation>Filtre SimuCUBE Force Reconstructionr™</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1005"/>
@@ -628,7 +628,7 @@
     <message>
         <location filename="mw.ui" line="1018"/>
         <source>DirectInput Effects</source>
-        <translation>Effets gérés par le Jeu</translation>
+        <translation>Effets du Jeu</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1033"/>
@@ -725,7 +725,7 @@
     <message>
         <location filename="mw.ui" line="1154"/>
         <source>Overall strength</source>
-        <translation>Puissance de l&apos;ensemble des forces</translation>
+        <translation>Force volant</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1185"/>
@@ -805,7 +805,7 @@
     <message>
         <location filename="mw.ui" line="1288"/>
         <source>Filters on IONI drive</source>
-        <translation>Filtres et effets gérés par la IONI</translation>
+        <translation>Filtres gérés par la IONI</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1295"/>
@@ -1018,7 +1018,7 @@
     <message>
         <location filename="mw.ui" line="1983"/>
         <source>Reload settings from SimuCUBE</source>
-        <translation>Recharger les réglages de SimuCUBE</translation>
+        <translation>Recharger les réglages de SimuCube</translation>
     </message>
     <message>
         <location filename="mw.ui" line="2037"/>
@@ -1063,7 +1063,7 @@
     <message>
         <location filename="mw.ui" line="2200"/>
         <source>Save settings to SimuCUBE</source>
-        <translation>Sauvegarder les réglages dans SimuCUBE</translation>
+        <translation>Sauver les réglages dans la SimuCUBE</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="120"/>
@@ -1084,7 +1084,7 @@
         <location filename="mw.cpp" line="885"/>
         <location filename="mw.cpp" line="1415"/>
         <source>Enable Ioni USB configuration</source>
-        <translation>Effectuer la configuration de la IONI via Granity</translation>
+        <translation>Démarrer la configuration de la IONI</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="162"/>
@@ -1120,7 +1120,7 @@
     <message>
         <location filename="mw.cpp" line="639"/>
         <source>E-Stop is PRESSED.</source>
-        <translation>Bouton d’arrêt d&apos;urgence enclenché.</translation>
+        <translation>l&apos;E-STop est PRESSE.</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="641"/>
@@ -1217,12 +1217,12 @@
         <location filename="mw.cpp" line="727"/>
         <location filename="mw.cpp" line="745"/>
         <source>E-Stop status unknown.</source>
-        <translation>Statut bouton d&apos;arrêt d&apos;urgence inconnu.</translation>
+        <translation>Statut E-Stop inconnu.</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="700"/>
         <source>E-Stop is released.</source>
-        <translation>Bouton d&apos;arrêt d&apos;urgence désenclenché.</translation>
+        <translation>Bouton d&apos;arrêt d&apos;urgence enclenché.</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="790"/>
@@ -1371,7 +1371,7 @@
         <location filename="mw.cpp" line="1812"/>
         <location filename="mw.cpp" line="1843"/>
         <source>lock-to-lock</source>
-        <translation>de butée à butée</translation>
+        <translation>de buté à buté</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="1247"/>
@@ -1382,7 +1382,7 @@
         <location filename="mw.ui" line="2166"/>
         <location filename="mw.cpp" line="1513"/>
         <source>Settings applied automatically - save to make them permanent</source>
-        <translation>Les réglages sont appliqués automatiquement - sauvegardez les pour les rendre permanents</translation>
+        <translation>Les réglages sont appliqués automatiquement - sauvegarder les pour les rendre permanents</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="1532"/>
@@ -1505,7 +1505,7 @@
     <message>
         <location filename="fwupdatewizard_successpage.cpp" line="17"/>
         <source>SimuCUBE firmware update is now successfully complete. SimuCUBE should be booting up the new firmware. When you click %1 Finish %2 the SimuCUBE Configuration tool will close. If SimuCUBE does not seem to start, please try to turn SimuCUBE off and then on again.</source>
-        <translation>La mise à jour du firmware SimuCUBE a été réalisée avec succés. La SimuCUBE doit lancer ce nouveau firmware. Pour ce faire, quand vous aurez cliqué sur %1 Terminer %2 l&apos;outil de configuration va fermer. Si la SimuCUBE n&apos;a pas l&apos;air de vouloir redémarrer, SVP éteignez la et relancez la.</translation>
+        <translation>La miseà jour du firmware SimuCUBE a été réalisé avec succés. La SimuCUBE doit lancer ce nouveau firmware. Pour ce faire, quand vous aurez cliqué sur %1 Terminer %2 l&apos;outil de configuration va fermer. Si la SimuCUBE n&apos;a pas l&apos;air de vouloir redémarrer, SVP éteignez là et relancez là.</translation>
     </message>
 </context>
 <context>
@@ -1539,7 +1539,7 @@
         <location filename="fwupdatewizard_updateconfirm.cpp" line="49"/>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="230"/>
         <source>Please wait 30 s for possible IONI Firmware automatic update to finish. Do not power-off the system.... %1 s remaining.</source>
-        <translation>SVP attendez 30 s le temps qu&apos;une possible mise à jour du Firmware de la IONI soit effectuée automatiquement. Ne pas eteindre la SimuCube... %1 s restant.</translation>
+        <translation>SVP attendez 30 s le temps qu&apos;une possible mise à jour du Firmware de la IONI soit effectuée automatiquement. Ne pas etteindre la SimuCube... %1 restant.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="68"/>
@@ -1621,7 +1621,7 @@
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="49"/>
         <source>Found SimuCUBE in Firmware Upgrade Mode. Press %1 Next %2 to continue.</source>
-        <translation>La SimuCUBE est en mode &quot;Mise à jour Firmware&quot;. Cliquez sur %1 Suivant %2 pour continuer.</translation>
+        <translation>La SimuCUBE est en mode &quot;Mise à jour Firmware&quot;. Cliquez sur 1% Suivant %2 pour continuer.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="56"/>
@@ -1796,7 +1796,7 @@
     <message>
         <location filename="motorconfigwizard_intropage.cpp" line="22"/>
         <source>%1 Note: %2 The wizard will activate the first profile which can&apos;t be edited before trying to initialize the wheel. This is to maximize the safety so that the wheel will not start turning after initialization. %3 It is good practise %4 to disconnect any USB cables from the wheel rim (if any) and have the E-Stop button close by when running this wizard.</source>
-        <translation>%1 Note: %2 L&apos;assistant va utiliser le profil par défaut (profil sécurisé et qui ne peut être modifié) pouressayer de lancer le calibrage du volant. Pour rendre cette opération encore plus sure, %3 il est recommandé %4 de débrancher tout câble USB de la jante de la roue, le cas échéant, et d&apos;avoir le bouton d&apos;arrêt d&apos;urgence à proximité lors de l&apos;exécution de cet assistant.</translation>
+        <translation>%1 Note: %2 L&apos;assistant va utiliser le profil par défaut (profil sécurisé et qui ne peut être modifié) pouressayer de lancer le calibrage du volant. Pour rendre cette opération encore plus sure, %3 il est préférable %4 de déconnecter le cable USB relié au volant (s&apos;il y en a un) et d&apos;enclencher le bouton d&apos;arrêt d&apos;urgence quand vous utilisez cet assistant.</translation>
     </message>
 </context>
 <context>
@@ -1865,7 +1865,7 @@
     <message>
         <location filename="motorconfigwizard_setcenter_afterinit.cpp" line="23"/>
         <source>Please center the wheel %1 as accurately as you can %2 and press %1 Next %2 -button.</source>
-        <translation>SVP centrez le volant %1 le plus précisément possible %2 et cliquez sur % Suivant %2 .</translation>
+        <translation>SVP centrez le volant %1 le plus précisément possible %2 et cliquez sur %1 Suivant %2 .</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_setcenter_afterinit.cpp" line="38"/>
@@ -1983,7 +1983,7 @@
     <message>
         <location filename="profilereorderdialog.ui" line="20"/>
         <source>Reorder by dragging and dropping. Accept by OK button.</source>
-        <translation>Réorganiser en faisant glisser et déposer. Acceptez en cliquant sur le bouton OK.</translation>
+        <translation>Réorganiser en faisant glisser et déposer. Acceptez en ciquant sur le boutton OK.</translation>
     </message>
     <message>
         <location filename="profilereorderdialog.cpp" line="69"/>
@@ -2086,37 +2086,37 @@ This dialog will automatically close when you have centered the wheel.</source>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="14"/>
         <source>Unsupported Drive Model detected</source>
-        <translation>Modèle de driver pas supporté détecté</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="20"/>
         <source>IONI Standard has been installed in SimuCUBE.</source>
-        <translation>Une IONI standard a été installé sur la carte SimuCUBE.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="36"/>
         <source>At least following features will not work:</source>
-        <translation>Ces différentes fonctionalités au moins ne fonctionneront pas :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="69"/>
         <source>Torque notch and peaking filter</source>
-        <translation>Ecrêtage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="92"/>
         <source>These features are always turned off. Setting different settings to them does not have any effect.</source>
-        <translation>Ces fonctionnalités seront toujours inactives. Effectuer différents réglages dessus ne produira aucun changement.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="105"/>
         <source>List of unsupported features might grow in the future.</source>
-        <translation>La liste des fonctionnalités non supportées pourra croitre à l&apos;avenir.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="59"/>
         <source>SimuCUBE Reconstruction Filter</source>
-        <translation>Filtre Reconstruction SimuCUBE</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
