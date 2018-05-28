@@ -2,6 +2,9 @@
 
 The purpose of this repository is to make it possible for users to contribute translations to SimuCUBE Configuration Tool.
 
+## 0.9.9 release
+
+It is propably not worth to try to update translations from 0.9.8 to 0.9.9, as most of the new translated stuff will get moved to different places in the software. We will update this text when it should be worth your time to translate the updated things. For not yet translated languages, it will be OK to start a project.
 
 ## Tools required
 
@@ -48,7 +51,8 @@ A: Yes. For missing languages, please write it as an issue or let us know otherw
 
 Q: Whats up with the %1 %2 etc. markers in the text?
 
-A: Usually, the are used to make the text **bold**, stop making text bold, or to add html tags at those positions to generate the surrounded text as a link to a WWW site. Also, in some cases, a lonely %1 will get replaced by a numeric value. 
+A: Usually, the are used to make the text **bold** with a html tag, stop making text bold with html tag, or to add other html tags at those positions, for example, to generate the surrounded text as a link to a WWW site. Also, in some cases, a lonely %1 will get replaced by a numeric value. 
+
 
 
 Q: I have other questions?
