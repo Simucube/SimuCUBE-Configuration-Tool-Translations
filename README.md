@@ -2,9 +2,9 @@
 
 The purpose of this repository is to make it possible for users to contribute translations to SimuCUBE Configuration Tool.
 
-## 0.9.9 release
+## 0.10.0
 
-It is propably not worth to try to update translations from 0.9.8 to 0.9.9, as most of the new translated stuff will get moved to different places in the software. We will update this text when it should be worth your time to translate the updated things. For not yet translated languages, it will be OK to start a project.
+These files are from the 0.10.0 release of the Configuration Tool, and are OK for updating previous translations.
 
 ## Tools required
 
