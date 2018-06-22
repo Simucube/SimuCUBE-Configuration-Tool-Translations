@@ -1712,7 +1712,6 @@
         <translation>QLabel { color: blue;}</translation>
     </message>
     <message>
-        <location filename="fwupdatewizard_updateconfirm.cpp" line="49"/>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="230"/>
         <source>Please wait 30 s for possible IONI Firmware automatic update to finish. Do not power-off the system.... %1 s remaining.</source>
         <translation>SVP attendez 30 s le temps qu&apos;une possible mise à jour du Firmware de la IONI soit effectuée automatiquement. Ne pas eteindre la SimuCube... %1 s restant.</translation>
@@ -1721,6 +1720,11 @@
         <location filename="fwupdatewizard_updateconfirm.cpp" line="68"/>
         <source>Unable to open SimuCUBE flash file.</source>
         <translation>Impossible d&apos;ouvrir le fichier flash SimuCUBE.</translation>
+    </message>
+    <message>
+        <location filename="fwupdatewizard_updateconfirm.cpp" line="49"/>
+        <source>Please wait 30 s for possible IONI Firmware automatic update to finish. Please note, that if there is an update, the IONI drive will restart, which might cause the phasing routine to be run. Do not power-off the system.... %1 s remaining.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="72"/>
