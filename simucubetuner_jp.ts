@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="nl_NL">
+<TS version="2.1">
 <context>
     <name>AnalogConfigDialog</name>
     <message>
@@ -285,13 +285,11 @@
     <message>
         <location filename="analogconfigdialog.ui" line="1181"/>
         <source>Export to ini file</source>
-        <oldsource>Export analogsettings.ini</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="1188"/>
         <source>Import from ini file</source>
-        <oldsource>Import analogsettings.ini</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -837,6 +835,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="mw.ui" line="1394"/>
+        <source>Only space, A-Z, a-z, 0-9, -_()/° are accepted. Maximum length of profile name is 24 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1412"/>
+        <source>space, a-z,A-Z,0-9,-_()/°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="mw.ui" line="1419"/>
         <source>Sine wave</source>
         <translation type="unfinished"></translation>
@@ -847,88 +855,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1734"/>
-        <source>Maximum Motor Current</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1754"/>
-        <source>Centering Spring Enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1804"/>
-        <source>mmc A</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1777"/>
-        <source>Configure motor, encoder and center point</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1761"/>
-        <source>Distance from the bumpstop where the bumpstop force starts to ramp up.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1767"/>
-        <source>Bumpstop effect ramp range</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1811"/>
-        <source>Resistance effect to prevent overly quick bounces away from bumpstop. Range is 0 % - 200 %.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1817"/>
-        <source>Bumpstop damping effect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1652"/>
-        <source>xxx CPR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1824"/>
-        <source>Encoder Counts Per Revolution</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1666"/>
-        <source>Indexing mode is unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1701"/>
-        <source>Audible notification beeps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1602"/>
-        <source>Saturation (maximum force)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="mw.ui" line="1534"/>
         <source>Indexing mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1565"/>
-        <source>Bumpstop maximum strength</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1680"/>
-        <source>Desktop Centering Spring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="1595"/>
-        <source>Bumbstop Effect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -937,8 +865,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1629"/>
-        <source>Bumpstop effect enabled</source>
+        <location filename="mw.ui" line="1565"/>
+        <source>Bumpstop maximum strength</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1595"/>
+        <source>Bumbstop Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1602"/>
+        <source>Saturation (maximum force)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1609"/>
+        <source>Audible notifications enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -952,23 +895,78 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="mw.ui" line="1629"/>
+        <source>Bumpstop effect enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1652"/>
+        <source>xxx CPR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="mw.ui" line="1659"/>
         <source>Centering Spring Strength</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1609"/>
-        <source>Audible notifications enabled</source>
+        <location filename="mw.ui" line="1666"/>
+        <source>Indexing mode is unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1394"/>
-        <source>Only space, A-Z, a-z, 0-9, -_()/° are accepted. Maximum length of profile name is 24 characters.</source>
+        <location filename="mw.ui" line="1680"/>
+        <source>Desktop Centering Spring</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1412"/>
-        <source>space, a-z,A-Z,0-9,-_()/°</source>
+        <location filename="mw.ui" line="1701"/>
+        <source>Audible notification beeps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1734"/>
+        <source>Maximum Motor Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1754"/>
+        <source>Centering Spring Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1761"/>
+        <source>Distance from the bumpstop where the bumpstop force starts to ramp up.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1767"/>
+        <source>Bumpstop effect ramp range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1777"/>
+        <source>Configure motor, encoder and center point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1804"/>
+        <source>mmc A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1811"/>
+        <source>Resistance effect to prevent overly quick bounces away from bumpstop. Range is 0 % - 200 %.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1817"/>
+        <source>Bumpstop damping effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="1824"/>
+        <source>Encoder Counts Per Revolution</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1084,6 +1082,12 @@
     <message>
         <location filename="mw.ui" line="2185"/>
         <source>Set this log verbosity level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="2228"/>
+        <location filename="mw.cpp" line="1546"/>
+        <source>Settings applied automatically - save to make them permanent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1417,6 +1421,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="mw.cpp" line="1565"/>
+        <source>Settings up to date in permanent memory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.cpp" line="1775"/>
+        <source>Unsafe to apply or save settings - would cause immediate torque!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="mw.cpp" line="2129"/>
         <source>Save profiles to INI file</source>
         <translation type="unfinished"></translation>
@@ -1435,22 +1449,6 @@
     <message>
         <location filename="mw.cpp" line="2181"/>
         <source>Open profiles INI file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.ui" line="2228"/>
-        <location filename="mw.cpp" line="1546"/>
-        <source>Settings applied automatically - save to make them permanent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.cpp" line="1565"/>
-        <source>Settings up to date in permanent memory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mw.cpp" line="1775"/>
-        <source>Unsafe to apply or save settings - would cause immediate torque!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1487,7 +1485,6 @@
     <message>
         <location filename="commutationconfigdialog.ui" line="20"/>
         <source>With Absolute encoders such as BiSS B, BiSS C or SSI, it is possible to setup and save automatic commutation sensors.</source>
-        <oldsource>With BiSS-C absolute encoders, it is possible to setup and save automatic commutation sensors.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1503,7 +1500,6 @@
     <message>
         <location filename="commutationconfigdialog.ui" line="50"/>
         <source>Please disconnect any wheel rim USB cables, as the motor will rotate during the procedure.</source>
-        <oldsource>Please disconnet any wheel rim USB cables, as the motor will rotate during the procedure.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2079,7 +2075,6 @@
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="18"/>
         <source>Use a DRC file to configure the motor&amp;&amp;encoder</source>
-        <oldsource>Select a motor&amp;&amp;encoder from the dropdown below</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2376,6 +2371,11 @@ This dialog will automatically close when you have centered the wheel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="unsupporteddrivemodelprompt.ui" line="59"/>
+        <source>SimuCUBE Reconstruction Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="69"/>
         <source>Torque notch and peaking filter</source>
         <translation type="unfinished"></translation>
@@ -2388,11 +2388,6 @@ This dialog will automatically close when you have centered the wheel.</source>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="105"/>
         <source>List of unsupported features might grow in the future.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unsupporteddrivemodelprompt.ui" line="59"/>
-        <source>SimuCUBE Reconstruction Filter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
