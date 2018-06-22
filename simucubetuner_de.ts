@@ -997,7 +997,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1946"/>
+        <location filename="mw.ui" line="1919"/>
         <source>SimuCUBE firmware version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1007,108 +1007,118 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1967"/>
+        <location filename="mw.ui" line="1974"/>
         <source>IONI drive firmware version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1974"/>
+        <location filename="mw.ui" line="1967"/>
         <source>SimuCUBE hardware version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1988"/>
+        <location filename="mw.ui" line="2005"/>
         <source>Toggle IONI USB configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="1995"/>
+        <location filename="mw.ui" line="1998"/>
         <source>Enables/Disables IONI configuration via USB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2005"/>
+        <location filename="mw.ui" line="1984"/>
         <source>Warning: Resets all settings to default</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2015"/>
+        <location filename="mw.ui" line="2031"/>
         <source>Start everything from scratch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2031"/>
+        <location filename="mw.ui" line="2021"/>
         <source>Reload settings from SimuCUBE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2070"/>
+        <location filename="mw.ui" line="2058"/>
+        <source>Configuration Tool language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="2067"/>
+        <source>Set this language (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mw.ui" line="2104"/>
         <source>Debug value:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2099"/>
+        <location filename="mw.ui" line="2133"/>
         <source>Created FFB Effects. Bolded effects have been actively changed by the game in last 30 seconds.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2109"/>
+        <location filename="mw.ui" line="2143"/>
         <source>This deletes all effect from effect memory. Useful if a game has crashed and some effects have been left running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2112"/>
+        <location filename="mw.ui" line="2146"/>
         <source>Reset FFB device state</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2156"/>
+        <location filename="mw.ui" line="2190"/>
         <source>Download debug event log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2167"/>
+        <location filename="mw.ui" line="2201"/>
         <source>Normal events and state changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2172"/>
+        <location filename="mw.ui" line="2206"/>
         <source>FFB effect creation, deletion and activation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2177"/>
+        <location filename="mw.ui" line="2211"/>
         <source>FFB effect value data (warning: fills log very fast)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2185"/>
+        <location filename="mw.ui" line="2219"/>
         <source>Set this log verbosity level</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2262"/>
+        <location filename="mw.ui" line="2296"/>
         <source>Save settings to SimuCUBE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mw.cpp" line="121"/>
-        <location filename="mw.cpp" line="589"/>
+        <location filename="mw.cpp" line="603"/>
         <source>Disconnected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mw.cpp" line="124"/>
-        <location filename="mw.cpp" line="592"/>
-        <location filename="mw.cpp" line="599"/>
-        <location filename="mw.cpp" line="625"/>
+        <location filename="mw.cpp" line="606"/>
+        <location filename="mw.cpp" line="613"/>
+        <location filename="mw.cpp" line="639"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mw.cpp" line="125"/>
-        <location filename="mw.cpp" line="904"/>
-        <location filename="mw.cpp" line="1448"/>
+        <location filename="mw.cpp" line="918"/>
+        <location filename="mw.cpp" line="1462"/>
         <source>Enable Ioni USB configuration</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1123,348 +1133,348 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="208"/>
+        <location filename="mw.cpp" line="222"/>
         <source>(Effect memory is empty)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="394"/>
+        <location filename="mw.cpp" line="408"/>
         <source>Correct firmware is installed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="631"/>
-        <location filename="mw.cpp" line="634"/>
+        <location filename="mw.cpp" line="645"/>
+        <location filename="mw.cpp" line="648"/>
         <source>Revision %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="638"/>
+        <location filename="mw.cpp" line="652"/>
         <source>Unknown hardware version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="646"/>
+        <location filename="mw.cpp" line="660"/>
         <source>E-Stop is PRESSED.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="648"/>
-        <location filename="mw.cpp" line="713"/>
+        <location filename="mw.cpp" line="662"/>
+        <location filename="mw.cpp" line="727"/>
         <source>Motor Faults:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="650"/>
+        <location filename="mw.cpp" line="664"/>
         <source>Tracking Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="653"/>
+        <location filename="mw.cpp" line="667"/>
         <source>Over Current!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="656"/>
+        <location filename="mw.cpp" line="670"/>
         <source>Communication Fault!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="659"/>
+        <location filename="mw.cpp" line="673"/>
         <source>Encoder Fault!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="662"/>
+        <location filename="mw.cpp" line="676"/>
         <source>Over Temperature!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="666"/>
-        <location filename="mw.cpp" line="716"/>
+        <location filename="mw.cpp" line="680"/>
+        <location filename="mw.cpp" line="730"/>
         <source>Overvoltage threshold [FOV] must be &gt; 102% of HV BUS voltage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="669"/>
-        <location filename="mw.cpp" line="721"/>
+        <location filename="mw.cpp" line="683"/>
+        <location filename="mw.cpp" line="735"/>
         <source>Undervoltage!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="672"/>
-        <location filename="mw.cpp" line="730"/>
+        <location filename="mw.cpp" line="686"/>
+        <location filename="mw.cpp" line="744"/>
         <source>Overvoltage!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="675"/>
+        <location filename="mw.cpp" line="689"/>
         <source>Program Fault!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="678"/>
+        <location filename="mw.cpp" line="692"/>
         <source>Hardware Fault!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="681"/>
+        <location filename="mw.cpp" line="695"/>
         <source>Overvelocity!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="684"/>
+        <location filename="mw.cpp" line="698"/>
         <source>Initialization Fault!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="687"/>
+        <location filename="mw.cpp" line="701"/>
         <source>Motion Fault!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="690"/>
+        <location filename="mw.cpp" line="704"/>
         <source>Motion Range Fault!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="693"/>
+        <location filename="mw.cpp" line="707"/>
         <source>Power Stage Forced Off!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="696"/>
+        <location filename="mw.cpp" line="710"/>
         <source>Error with Host Communication!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="699"/>
-        <location filename="mw.cpp" line="725"/>
-        <location filename="mw.cpp" line="734"/>
+        <location filename="mw.cpp" line="713"/>
+        <location filename="mw.cpp" line="739"/>
+        <location filename="mw.cpp" line="748"/>
         <source>Fault Location ID: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="707"/>
-        <location filename="mw.cpp" line="740"/>
-        <location filename="mw.cpp" line="746"/>
-        <location filename="mw.cpp" line="764"/>
+        <location filename="mw.cpp" line="721"/>
+        <location filename="mw.cpp" line="754"/>
+        <location filename="mw.cpp" line="760"/>
+        <location filename="mw.cpp" line="778"/>
         <source>E-Stop status unknown.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="711"/>
+        <location filename="mw.cpp" line="725"/>
         <source>E-Stop is released.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="809"/>
+        <location filename="mw.cpp" line="823"/>
         <source>Booting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="813"/>
+        <location filename="mw.cpp" line="827"/>
         <source>Trying to initialize drive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="817"/>
+        <location filename="mw.cpp" line="831"/>
         <source>Successfully initialized drive.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="820"/>
+        <location filename="mw.cpp" line="834"/>
         <source>Couldn&apos;t connect to Ioni, reconnecting..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="824"/>
+        <location filename="mw.cpp" line="838"/>
         <source>Waiting for faults to clear. Release E-stop?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="828"/>
+        <location filename="mw.cpp" line="842"/>
         <source>Waiting for drive to get ready</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="842"/>
+        <location filename="mw.cpp" line="856"/>
         <source>Hardware settings not yet configured.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="846"/>
+        <location filename="mw.cpp" line="860"/>
         <source>Initializing parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="860"/>
+        <location filename="mw.cpp" line="874"/>
         <source>Drive firmware update error. Turn system off and on again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="865"/>
+        <location filename="mw.cpp" line="879"/>
         <source>Autoupdating Ioni Firmware. %1 %</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="877"/>
-        <location filename="mw.cpp" line="881"/>
+        <location filename="mw.cpp" line="891"/>
+        <location filename="mw.cpp" line="895"/>
         <source>Settings changed, updating a few things...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="902"/>
+        <location filename="mw.cpp" line="916"/>
         <source>Operational</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="918"/>
+        <location filename="mw.cpp" line="932"/>
         <source>Turn the wheel to find index point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="922"/>
+        <location filename="mw.cpp" line="936"/>
         <source>Saving settings to SimuCUBE flash memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="925"/>
+        <location filename="mw.cpp" line="939"/>
         <source>Resetting all settings to default.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="928"/>
+        <location filename="mw.cpp" line="942"/>
         <source>Flash Memory Fault</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="934"/>
+        <location filename="mw.cpp" line="948"/>
         <source>Ioni Granity Configuration Mode. Games will not work!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="936"/>
-        <location filename="mw.cpp" line="1434"/>
+        <location filename="mw.cpp" line="950"/>
+        <location filename="mw.cpp" line="1448"/>
         <source>Disable Ioni USB configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="942"/>
+        <location filename="mw.cpp" line="956"/>
         <source>Applying DRC settings to drive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="945"/>
+        <location filename="mw.cpp" line="959"/>
         <source>Error applying DRC settings to drive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="949"/>
+        <location filename="mw.cpp" line="963"/>
         <source>Paused after drive init. Waiting for wizard.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="953"/>
+        <location filename="mw.cpp" line="967"/>
         <source>Unknown operating mode!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="957"/>
+        <location filename="mw.cpp" line="971"/>
         <source>Debug: SMBus error counter (should not increase): %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1018"/>
+        <location filename="mw.cpp" line="1032"/>
         <source>Manual indexing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1022"/>
+        <location filename="mw.cpp" line="1036"/>
         <source>In reference to initialization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1026"/>
+        <location filename="mw.cpp" line="1040"/>
         <source>In reference to index point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1030"/>
+        <location filename="mw.cpp" line="1044"/>
         <source>Absolute encoder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1034"/>
+        <location filename="mw.cpp" line="1048"/>
         <source>unknown??</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1107"/>
+        <location filename="mw.cpp" line="1121"/>
         <source>This is the default profile.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1126"/>
-        <location filename="mw.cpp" line="1845"/>
-        <location filename="mw.cpp" line="1876"/>
+        <location filename="mw.cpp" line="1140"/>
+        <location filename="mw.cpp" line="1859"/>
+        <location filename="mw.cpp" line="1890"/>
         <source>lock-to-lock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1280"/>
+        <location filename="mw.cpp" line="1294"/>
         <source>disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2129"/>
+        <location filename="mw.cpp" line="2143"/>
         <source>Save profiles to INI file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2129"/>
-        <location filename="mw.cpp" line="2181"/>
+        <location filename="mw.cpp" line="2143"/>
+        <location filename="mw.cpp" line="2195"/>
         <source>Ini file (*.ini)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2168"/>
+        <location filename="mw.cpp" line="2182"/>
         <source>Profiles exported.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2181"/>
+        <location filename="mw.cpp" line="2195"/>
         <source>Open profiles INI file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.ui" line="2228"/>
-        <location filename="mw.cpp" line="1546"/>
+        <location filename="mw.ui" line="2262"/>
+        <location filename="mw.cpp" line="1560"/>
         <source>Settings applied automatically - save to make them permanent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1565"/>
+        <location filename="mw.cpp" line="1579"/>
         <source>Settings up to date in permanent memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1775"/>
+        <location filename="mw.cpp" line="1789"/>
         <source>Unsafe to apply or save settings - would cause immediate torque!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2198"/>
+        <location filename="mw.cpp" line="2212"/>
         <source>File is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2204"/>
+        <location filename="mw.cpp" line="2218"/>
         <source>Profiles imported.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2534"/>
+        <location filename="mw.cpp" line="2548"/>
         <source>Event Log</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1472,7 +1482,7 @@
 <context>
     <name>QLabel</name>
     <message>
-        <location filename="mw.cpp" line="2279"/>
+        <location filename="mw.cpp" line="2293"/>
         <source>This is the default profile.</source>
         <translation type="unfinished"></translation>
     </message>
