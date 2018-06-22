@@ -6,7 +6,7 @@
     <message>
         <location filename="analogconfigdialog.ui" line="23"/>
         <source>High and low deadzone values are used to calculate output from raw analog to digital converter value. You can manually set deadzones. Default deadzone is 100 at both ends. Axis ranges are 0-65535.</source>
-        <translation>Le zone morte iniziale e finale sono usate per calcolare il valore finale della conversione da analogico a digitale del segnale originale. Puoi settare manualmente le due zone morte. Il valore predefinito della zona morta è 100 su entrambi gli estremi. L&apos;intervallo degli assi è 0-65535.</translation>
+        <translation>I valori di zona morta iniziale e finale sono usati per calcolare il valore finale della conversione da analogico a digitale del segnale originale. Puoi settare manualmente le due zone morte. Il valore predefinito della zona morta è 100 su entrambi gli estremi. L&apos;intervallo degli assi è 0-65535.</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="41"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="analogconfigdialog.ui" line="65"/>
         <source>Hat</source>
-        <translation>Stick 8 vie</translation>
+        <translation>Stick 8 direzioni</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="72"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="analogconfigdialog.ui" line="122"/>
         <source>Deadzone high</source>
-        <translation>Zona morta alta</translation>
+        <translation>Zona morta superiore</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="149"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="analogconfigdialog.ui" line="319"/>
         <source>Deadzone low</source>
-        <translation>Zona morta bassa</translation>
+        <translation>Zona morta inferiore</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="386"/>
@@ -222,7 +222,7 @@
         <location filename="analogconfigdialog.ui" line="895"/>
         <location filename="analogconfigdialog.ui" line="996"/>
         <source>External Pot 1</source>
-        <translation>Potenziomentro esterno 1</translation>
+        <translation>Potenziometro esterno 1</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="486"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="analogconfigdialog.ui" line="1215"/>
         <source>Note 1: </source>
-        <translation>Nota1: </translation>
+        <translation>Nota 1: </translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="1225"/>
@@ -363,12 +363,12 @@
     <message>
         <location filename="mw.ui" line="78"/>
         <source>Unknown/disconnected</source>
-        <translation>Sconisciuto/disconnesso</translation>
+        <translation>Sconosciuto/disconnesso</translation>
     </message>
     <message>
         <location filename="mw.ui" line="91"/>
         <source>Toggle E-stop to clear faults (if any).</source>
-        <translation>Disabilita l&apos;E-stop per resettare i guasti(se presenti).</translation>
+        <translation>Disabilita l&apos;interruttore E-stop di emergenza per resettare i guasti(se presenti).</translation>
     </message>
     <message>
         <location filename="mw.ui" line="94"/>
@@ -403,7 +403,7 @@
     <message>
         <location filename="mw.ui" line="225"/>
         <source>Reset center</source>
-        <translation>reimposta centro</translation>
+        <translation>reimposta posizione centrale</translation>
     </message>
     <message>
         <location filename="mw.ui" line="256"/>
@@ -428,17 +428,17 @@
     </message>
     <message>
         <source>-----l</source>
-        <translation type="vanished">-----|</translation>
+        <translation type="vanished">-----l</translation>
     </message>
     <message>
         <location filename="mw.ui" line="444"/>
         <source>Buttons</source>
-        <translation>Bottoni</translation>
+        <translation>Pulsanti</translation>
     </message>
     <message>
         <location filename="mw.ui" line="457"/>
         <source>○○○○○○○○○○○○○○○○</source>
-        <translation>OOOOOOOOOOOOOOOOOOOOO</translation>
+        <translation>○○○○○○○○○○○○○○○○</translation>
     </message>
     <message>
         <location filename="mw.ui" line="489"/>
@@ -498,7 +498,7 @@
     <message>
         <location filename="mw.ui" line="627"/>
         <source>Effect activity. - = not used, ○ = effect is created, ● = effect is actively controlled by game</source>
-        <translation>Attività effetto. - = non usato, O = effetto creato, • = effetto controllato dal gioco</translation>
+        <translation>Attività effetto. - = non usato, ○ = effetto creato, ● = effetto controllato dal gioco</translation>
     </message>
     <message>
         <location filename="mw.ui" line="630"/>
@@ -571,7 +571,7 @@
     <message>
         <location filename="mw.ui" line="866"/>
         <source>Infinite (notch filter)</source>
-        <translation>Infinito (filtro notch)</translation>
+        <translation>Infinito (filtro elimina banda)</translation>
     </message>
     <message>
         <location filename="mw.ui" line="869"/>
@@ -591,7 +591,7 @@
     <message>
         <location filename="mw.ui" line="912"/>
         <source>Peaking and notch filter</source>
-        <translation>Filtro picco/valle</translation>
+        <translation>Filtro passa banda</translation>
     </message>
     <message>
         <location filename="mw.ui" line="919"/>
@@ -617,7 +617,7 @@
     <message>
         <location filename="mw.ui" line="998"/>
         <source>SimuCUBE Force Reconstruction filter™</source>
-        <translation>Filtro ricostruzione forza SimuCUBE</translation>
+        <translation>Filtro ricostruzione segnale di forza SimuCUBE</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1005"/>
@@ -633,7 +633,7 @@
     <message>
         <location filename="mw.ui" line="1033"/>
         <source>Off</source>
-        <translation>Off</translation>
+        <translation>Spento</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1038"/>
@@ -703,7 +703,7 @@
     <message>
         <location filename="mw.ui" line="1111"/>
         <source>xx.xx A</source>
-        <translation>xx.xx.A</translation>
+        <translation>xx.xx A</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1118"/>
@@ -711,7 +711,7 @@
         <location filename="mw.ui" line="1585"/>
         <source>°</source>
         <translation variants="yes">
-            <lengthvariant>o</lengthvariant>
+            <lengthvariant>°</lengthvariant>
             <lengthvariant></lengthvariant>
             <lengthvariant></lengthvariant>
             <lengthvariant></lengthvariant>
@@ -795,7 +795,7 @@
     <message>
         <location filename="mw.ui" line="1248"/>
         <source>Works only if bumpstops are enabled. Negative values are also accepted.</source>
-        <translation>Funziona solo se l&apos;ammortizzazione di fine corsa è abilitata. Sono accettati anche valori negativi.</translation>
+        <translation>Funziona solo se l&apos;ammortizzatore di fine corsa è abilitato. Sono accettati anche valori negativi.</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1272"/>
@@ -845,12 +845,12 @@
     <message>
         <location filename="mw.ui" line="1499"/>
         <source>Hardware Setup</source>
-        <translation>Hardaware setup</translation>
+        <translation>Hardware setup</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1825"/>
         <source>Configure Automatic Commutation</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura la commutazione automatica</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1541"/>
@@ -870,7 +870,7 @@
     <message>
         <location filename="mw.ui" line="1564"/>
         <source>Configure motor, encoder and center point</source>
-        <translation>Configura ilmotore, l&apos;encoder ed il punto centrale</translation>
+        <translation>Configura il motore, l&apos;encoder ed il punto centrale</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1548"/>
@@ -900,7 +900,7 @@
     <message>
         <location filename="mw.ui" line="1618"/>
         <source>Encoder Counts Per Revolution</source>
-        <translation>Rosoluzione al giro dell&apos;encoder</translation>
+        <translation>Risoluzione al giro dell&apos;encoder</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1625"/>
@@ -925,7 +925,7 @@
     <message>
         <location filename="mw.ui" line="1703"/>
         <source>Bumpstop maximum strength</source>
-        <translation>Massima forza di finecorsa</translation>
+        <translation>Massima forza di fine corsa</translation>
     </message>
     <message>
         <source>Saturation (minimum force)</source>
@@ -953,7 +953,7 @@
     <message>
         <location filename="mw.ui" line="1804"/>
         <source>Bumpstop effect enabled</source>
-        <translation>Effetto di finecorsa abilitato</translation>
+        <translation>Effetto di fine corsa abilitato</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1754"/>
@@ -998,7 +998,7 @@
     <message>
         <location filename="mw.ui" line="1926"/>
         <source>IONI drive firmware version</source>
-        <translation>Versione firmwaredel drive IONI</translation>
+        <translation>Versione firmware del drive IONI</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1933"/>
@@ -1033,7 +1033,7 @@
     <message>
         <location filename="mw.ui" line="2029"/>
         <source>Debug value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valore di debug:</translation>
     </message>
     <message>
         <location filename="mw.ui" line="2058"/>
@@ -1078,7 +1078,7 @@
     <message>
         <location filename="mw.ui" line="2221"/>
         <source>Save settings to SimuCUBE</source>
-        <translation>Salva i settagi su SimuCUBE</translation>
+        <translation>Salva le configurazioni su SimuCUBE</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="121"/>
@@ -1109,7 +1109,7 @@
     <message>
         <location filename="mw.cpp" line="190"/>
         <source>%1 Click here for updates %2</source>
-        <translation>%1 chicca qui per gli aggiornamenti %2</translation>
+        <translation>%1 clicca qui per gli aggiornamenti %2</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="208"/>
@@ -1323,7 +1323,7 @@
     <message>
         <location filename="mw.cpp" line="922"/>
         <source>Ioni Granity Configuration Mode. Games will not work!</source>
-        <translation>Modalità di cnfigurazione Ioni Granity. I giochi non funzionano!</translation>
+        <translation>Modalità di configurazione Ioni Granity. I giochi non funzioneranno durante questa modalità!</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="924"/>
@@ -1443,99 +1443,99 @@
     <message>
         <location filename="commutationconfigdialog.ui" line="14"/>
         <source>Automatic setup of commutation sensors</source>
-        <translation type="unfinished"></translation>
+        <translation>Setup automatico dei sensori di commutazione</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="20"/>
         <source>With BiSS-C absolute encoders, it is possible to setup and save automatic commutation sensors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usando l&apos;encoder assoluto BiSS-C, è possibile settare e salvare automaticamente i sensori di commutazione.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="30"/>
         <source>With this dialog, you can turn this feature on and off. </source>
-        <translation type="unfinished"></translation>
+        <translation>Con questa opzione, puoi accendere e spegnere questa funzionalità. </translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="37"/>
         <source>Please make sure that the drive is in Operational state and the E-stop is not pressed. </source>
-        <translation type="unfinished"></translation>
+        <translation>Assicurati che il drive è in stato Operativo ed il pulsante E-stop di emergenza non è premuto. </translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="50"/>
         <source>Please disconnet any wheel rim USB cables, as the motor will rotate during the procedure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Disconnetti qualsiasi cavo USB dal volante, il motore effettuerà delle rotazioni durante la procedura.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="62"/>
         <source>Start automatic commutation setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizia il setup di commutazione automatica</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="82"/>
         <source>Disable previously set automatic commutation settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita i precedenti settaggi di commutazione automatica</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="91"/>
         <source>Status: </source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: </translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="62"/>
         <source>Status: SimuCUBE is not in Operational state; cannot perform task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: SimuCUBE non è il stato Operativo; non posso eseguire l&apos;attività.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="72"/>
         <location filename="commutationconfigdialog.cpp" line="169"/>
         <source>Status: Task not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Attività non avviata</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="83"/>
         <location filename="commutationconfigdialog.cpp" line="87"/>
         <source>Status: Started / Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Avviata / In attesa</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="92"/>
         <source>Status: Failure: Unsupported encoder. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Fallito: Encoder non supportato. I settaggi del drive non sono stati cambiati.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="101"/>
         <source>Status: Failure: Drive not initialized in Torque mode. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Fallito: Drive non inizializzato in modalità Coppia. I settaggi del drive non sono stati cambiati.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="110"/>
         <source>Status: Failure: Drive not initialized. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Fallito: Drive non inizializzato. I settaggi del drive non sono stati cambiati.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="120"/>
         <source>Status: Failure: Drive current limits too low to perform this operation. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Fallito: I liniti di corrente del drive sono troppo bassi per eseguire questa operazione. I settaggi del drive non sono stati cambiati.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="129"/>
         <source>Status: Failure: HAL sensor signals are too noisy. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Fallito: Il segnale dei sensori Hall è troppo disturbato. I settaggi del drive non sono stati cambiati.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="138"/>
         <source>Status: Failure: HAL sensors activated in invalid sequence. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Fallito: I sensori Hall sono stati attivati con sequenza non valida. I settaggi del drive non sono stati cambiati.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="147"/>
         <source>Status: Failure: Timeout. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Fallito: Timeout. I settaggi del drive non sono stati cambiati.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.cpp" line="156"/>
         <source>Status: Success. Drive settings have been saved to drive flash memory. Please re-run the Configure Motor, encoder and center point wizard with Automatic indexing to enable the feature. Do not supply a new DRC configuration file in the dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato: Eseguito con successo. I settaggi del drive sono stati salvati nella memoria flash. Per abilitare questa funzionalità, esegui nuovamente la procedura guidata di configurazione motore, encoder e punto centrale del volante con indicizzazione automatica. Non inserire nessun nuovo file di configurazione DRC nel campo.</translation>
     </message>
 </context>
 <context>
@@ -1563,7 +1563,7 @@
     <message>
         <location filename="fwupdatewizard_intropage.cpp" line="20"/>
         <source>%1Too old version%2 for the firmware was detected for this version of the configuration tool.</source>
-        <translation>E&apos; presente una %1versione troppo obsoleta%2del firmaware rispetto la versione dello strumento di configurazione.</translation>
+        <translation>E&apos; presente una %1versione troppo obsoleta%2 del firmware rispetto la versione dello strumento di configurazione.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_intropage.cpp" line="23"/>
@@ -1575,7 +1575,7 @@
         <location filename="fwupdatewizard_intropage.cpp" line="25"/>
         <location filename="fwupdatewizard_intropage.cpp" line="82"/>
         <source>If you do not want to install or update the firmware please exit by clicking %1 Cancel. %2 The SimuCUBE Configuration Tool will close upon exiting.</source>
-        <translation>Se non vuoi installare o aggiornare il firmware perfavore esci cliccando su %1 Annulla. %2 Il tool di configurazione SimuCUBE sarà chiuso all&apos;uscita.</translation>
+        <translation>Se non vuoi installare o aggiornare il firmware per favore esci cliccando su %1 Annulla. %2 Il tool di configurazione SimuCUBE sarà chiuso all&apos;uscita.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_intropage.cpp" line="27"/>
@@ -1596,12 +1596,12 @@
     <message>
         <location filename="fwupdatewizard_intropage.cpp" line="51"/>
         <source>If you do not want to install the firmware please exit by clicking %1 Cancel. %2 The SimuCUBE Configuration Tool will close upon exiting.</source>
-        <translation>Se non vuoi installare il firmware perfavore esci cliccando su %1 Annulla. %2 Il tool di configurazione SimuCUBE sarà chiuso all&apos;uscita.</translation>
+        <translation>Se non vuoi installare il firmware per favore esci cliccando su %1 Annulla. %2 Il tool di configurazione SimuCUBE sarà chiuso all&apos;uscita.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_intropage.cpp" line="53"/>
         <source>By clicking %1 Next %2 the SimuCUBE firmware installation will begin.</source>
-        <translation>Cliccando di %1 Avanti %2 l&apos;installazione del firmware SimuCUBE sarà avviata.</translation>
+        <translation>Cliccando %1 Avanti %2 l&apos;installazione del firmware SimuCUBE sarà avviata.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_intropage.cpp" line="56"/>
@@ -1702,7 +1702,7 @@
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="158"/>
         <source>Verifying... this should take around 5 seconds.</source>
-        <translation>Verifica--- potrebbero passare circa 5 secondi.</translation>
+        <translation>Verifica... potrebbero passare circa 5 secondi.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="165"/>
@@ -1731,12 +1731,12 @@
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="27"/>
         <source>Searching for SimuCUBE in Firmware Upgrade Mode. This should take up to 30 seconds.</source>
-        <translation>Ricerca della SimuCUBE il modalità aggiornamento firmware. Potrebbero passare fino a 30 secondi.</translation>
+        <translation>Ricerca della SimuCUBE in modalità aggiornamento firmware. Potrebbero passare fino a 30 secondi.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="49"/>
         <source>Found SimuCUBE in Firmware Upgrade Mode. Press %1 Next %2 to continue.</source>
-        <translation>Travata SimuCUME in modalità aggiornamento Firmware. Premi %1 Avanti %2 per continuare.</translation>
+        <translation>Travata SimuCUBE in modalità aggiornamento Firmware. Premi %1 Avanti %2 per continuare.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="56"/>
@@ -1746,7 +1746,7 @@
     <message>
         <location filename="fwupdatewizard_waitforupdatemode.cpp" line="62"/>
         <source>Error: SimuCUBE did not boot in Firmware Upgrade Mode in 30 seconds. Cause might be Windows driver install that takes long time. Please see if there is a SimuCUBE in Firmware Upgrade mode -device visible in Device manager. If there is, you can retry. In case there is no device visible, unplugging and replugging SimuCUBE might help to force Windows to enumerate the device. Power cycling the SimuCUBE and trying update again can also be succesful as Windows will already know the device on the 2nd try.</source>
-        <translation>Errore: La SimuCUBE non riesce ad entrare in modalità aggiornamento firmware entro 30 secondi. La causa potrebbe essere che l&apos;installazione del driver Windows prende troppo tempo. Per favore verifica in gestione dispositivi se è presente una SimuCUBE in modalità aggiornamento firmware. Se è presente, scollegare e ricollegare la SimuCUBE potrebbe aiutare Windows a forzare l&apos;inizializzazione della periferica. Riavvia spegnendo ed accendendo la SimuCUBE e prova a rieffettuare l&apos;aggiornamento, questo potrebbe permettere l&apos;esecuzione corretta dell&apos;operazione, dovuto al fatto che Windows conosce già la periferica alla seconda prova.</translation>
+        <translation>Errore: La SimuCUBE non riesce ad entrare in modalità aggiornamento firmware entro 30 secondi. La causa potrebbe essere che l&apos;installazione del driver Windows impiega troppo tempo. Per favore verifica in gestione dispositivi se è presente una SimuCUBE in modalità aggiornamento firmware. Se è presente, scollegare e ricollegare la SimuCUBE potrebbe aiutare Windows a forzare l&apos;inizializzazione della periferica. Riavvia spegnendo ed accendendo la SimuCUBE e prova a rieffettuare l&apos;aggiornamento, questo potrebbe permettere l&apos;esecuzione corretta dell&apos;operazione, dovuto al fatto che Windows conosce già la periferica alla seconda prova.</translation>
     </message>
 </context>
 <context>
@@ -1943,12 +1943,12 @@
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="23"/>
         <source>%1Select this if you don&apos;t know what you are supposed to do, %2 or know your IONI drive works already, or you have gotten the system from a distributor pre-assembled, or if you have not changed any physical hardare such as the encoder.</source>
-        <translation>%1 Seleziona questo se non sai cosa dovresti fare, %2 o se sai che il tuo drive IONI funziona già, o se hai preso il sistema preassemblato da un distributore, o se non hai cambiato nessun componente fisico come ad esempio l&apos;encoder.</translation>
+        <translation>%1 Seleziona questo se non sai cosa devi fare, %2 o se sai che il tuo drive IONI funziona già, o se hai preso il sistema preassemblato da un distributore, o se non hai cambiato nessun componente fisico come ad esempio l&apos;encoder.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="75"/>
         <source>Input the Motor Torque Constant below for maximum output torque estimation. Leave at 0.00 if you don&apos;t know this value. The estimated value works correctly only when IONI is configured to use the nominal maximum current.</source>
-        <translation>Inserisci sotto la Costante di Coppia del Motore (MTC) per var valutare la massima coppia di uscita. Lascia 0.00 se non conosci questo valore. Il valore stimato lavora correttamente solo quando la IONI è configurata per usare la corrente massima nominale.</translation>
+        <translation>Inserisci sotto la Costante di Coppia del Motore (MTC) per far valutare la massima coppia di uscita. Lascia 0.00 se non conosci questo valore. Il valore stimato lavora correttamente solo quando la IONI è configurata per usare la corrente massima nominale.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="116"/>
@@ -2220,7 +2220,7 @@ Questo messaggio sarà chiuso automaticamente non appena centri il volante.</tra
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="69"/>
         <source>Torque notch and peaking filter</source>
-        <translation>Filtro di picco e valle della coppia</translation>
+        <translation>Filtro passa banda della coppia</translation>
     </message>
     <message>
         <location filename="unsupporteddrivemodelprompt.ui" line="92"/>
