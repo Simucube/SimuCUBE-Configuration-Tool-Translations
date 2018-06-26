@@ -1850,98 +1850,108 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="27"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="28"/>
         <source>Possible absolute encoder (BiSS B, BiSS C or SSI) has been detected. With absolute encoders, it is possible to setup and save automatic commutation sensors.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="29"/>
-        <source>With this dialog, you can turn this feature on and off. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="31"/>
-        <source>Please disconnect any wheel rim USB cables, as the motor will rotate during the procedure.</source>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="30"/>
+        <source>With this dialog, you can turn this feature on and off. If you click %1 Next %2 without doing anything, you will leave the setting for sensors as they are.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="33"/>
+        <source>Please disconnect any wheel rim USB cables, as the motor will rotate during the procedure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="35"/>
         <source>Process status:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="34"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="36"/>
         <source>This means that the wheel is not required to perform the phase search routine at startup and it will be immediately usable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="36"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="38"/>
         <source>Start automatic commutation setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="37"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="39"/>
         <source>Disable previously set automatic commutation settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="122"/>
-        <source>SimuCUBE is not in Operational state; cannot perform task.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="132"/>
-        <source>Task not started</source>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="85"/>
+        <source>Automatic commutation setup has been previously performed. You can click %1 Next %2 to continue.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="143"/>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="147"/>
+        <source>SimuCUBE is not in Operational state; cannot perform task.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="153"/>
+        <source>Task not started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="164"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="168"/>
         <source>Started / Busy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="152"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="173"/>
         <source>Failure: Unsupported encoder. Drive settings have not been changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="162"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="183"/>
         <source>Failure: Drive not initialized in Torque mode. Drive settings have not been changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="172"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="193"/>
         <source>Failure: Drive not initialized. Drive settings have not been changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="183"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="204"/>
         <source>Failure: Drive current limits too low to perform this operation. Drive settings have not been changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="193"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="214"/>
         <source>Failure: HAL sensor signals are too noisy. Drive settings have not been changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="203"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="224"/>
         <source>Failure: HAL sensors activated in invalid sequence. Drive settings have not been changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="213"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="234"/>
         <source>Failure: Timeout. Drive settings have not been changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="223"/>
-        <source>Success. Drive settings have been saved to drive flash memory.</source>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="244"/>
+        <source>Success. Drive settings have been saved to drive flash memory. Click %1 Next %2 to continue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="241"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="284"/>
+        <source>Automatic commutation setup has been cleared. You can click %1 Next %2 to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="263"/>
         <source>Task failed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2040,17 +2050,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="69"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="74"/>
         <source>Motor initialization complete! Press %1 Next %2 to continue.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="87"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="92"/>
         <source>Motor is initializing. This should take around a minute at most.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="93"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="98"/>
         <source>Error: Motor did not initialize in 30 seconds. Probable cause for this: Wrong settings for the motor.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2196,12 +2206,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="113"/>
+        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="154"/>
         <source>%1 Error: %2 Could not open the specified DRC file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="158"/>
+        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="199"/>
         <source>Applying Ioni DRC Data</source>
         <translation type="unfinished"></translation>
     </message>

@@ -1883,98 +1883,116 @@
         <translation>Configurazione sensori di commutazione</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="27"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="28"/>
         <source>Possible absolute encoder (BiSS B, BiSS C or SSI) has been detected. With absolute encoders, it is possible to setup and save automatic commutation sensors.</source>
         <translation>E&apos; stato rilevato un possibile encoder assoluto (BiSS B, BiSS C o SSI). Con gli encoder assoluti è possibile configurare e salvare la commutazione automatica dei sensori.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="29"/>
         <source>With this dialog, you can turn this feature on and off. </source>
-        <translation>Con questa opzione, puoi accendere e spegnere questa funzionalità. </translation>
+        <translation type="vanished">Con questa opzione, puoi accendere e spegnere questa funzionalità. </translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="31"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="30"/>
+        <source>With this dialog, you can turn this feature on and off. If you click %1 Next %2 without doing anything, you will leave the setting for sensors as they are.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="33"/>
         <source>Please disconnect any wheel rim USB cables, as the motor will rotate during the procedure.</source>
         <translation>Disconnetti qualsiasi cavo USB dal volante, il motore effettuerà delle rotazioni durante la procedura.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="33"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="35"/>
         <source>Process status:</source>
         <translation>Stato processo:</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="34"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="36"/>
         <source>This means that the wheel is not required to perform the phase search routine at startup and it will be immediately usable.</source>
         <translation>Questo significa che il volante non avrà bisogno di effettuare la ricerca del punto centrale durante l&apos;avvio, e sarà utilizzabile immediatamente.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="36"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="38"/>
         <source>Start automatic commutation setup</source>
         <translation>Inizia la configurazione della commutazione automatica</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="37"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="39"/>
         <source>Disable previously set automatic commutation settings</source>
         <translation>Disabilita i precedenti settaggi di commutazione automatica</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="122"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="85"/>
+        <source>Automatic commutation setup has been previously performed. You can click %1 Next %2 to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="143"/>
         <source>SimuCUBE is not in Operational state; cannot perform task.</source>
         <translation>La SimuCUBE non è in stato Operativo; non puoi effettuare questa operazione.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="132"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="153"/>
         <source>Task not started</source>
         <translation>Attività non iniziata</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="143"/>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="147"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="164"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="168"/>
         <source>Started / Busy</source>
         <translation>Iniziata / Occupata</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="152"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="173"/>
         <source>Failure: Unsupported encoder. Drive settings have not been changed.</source>
         <translation>Fallito: Encoder non supportato. I settaggi del drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="162"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="183"/>
         <source>Failure: Drive not initialized in Torque mode. Drive settings have not been changed.</source>
         <translation>Fallito: Drive non inizializzato in modalità Potenza. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="172"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="193"/>
         <source>Failure: Drive not initialized. Drive settings have not been changed.</source>
         <translation>Fallito: Drive non inizializzato. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="183"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="204"/>
         <source>Failure: Drive current limits too low to perform this operation. Drive settings have not been changed.</source>
         <translation>Fallito: I limiti di corrente del Drive sono toppo bassi per effettuare questa operazione. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="193"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="214"/>
         <source>Failure: HAL sensor signals are too noisy. Drive settings have not been changed.</source>
         <translation>Fallito: I segnali dei sensori HALL sono troppo disturbati. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="203"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="224"/>
         <source>Failure: HAL sensors activated in invalid sequence. Drive settings have not been changed.</source>
         <translation>Fallito: I sensori HALL sono attivati con una sequenza non valida. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="213"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="234"/>
         <source>Failure: Timeout. Drive settings have not been changed.</source>
         <translation>Fallito: Fuori tempo massimo. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="223"/>
-        <source>Success. Drive settings have been saved to drive flash memory.</source>
-        <translation>Successo: I settaggi del Drive sono stati memorizzati nella sua memoria flash.</translation>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="244"/>
+        <source>Success. Drive settings have been saved to drive flash memory. Click %1 Next %2 to continue</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="241"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="284"/>
+        <source>Automatic commutation setup has been cleared. You can click %1 Next %2 to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Success. Drive settings have been saved to drive flash memory.</source>
+        <translation type="vanished">Successo: I settaggi del Drive sono stati memorizzati nella sua memoria flash.</translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="263"/>
         <source>Task failed</source>
         <translation>Attività fallita</translation>
     </message>
@@ -2073,17 +2091,17 @@
         <translation>Il motore è in avvio...</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="69"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="74"/>
         <source>Motor initialization complete! Press %1 Next %2 to continue.</source>
         <translation>Avvio del motore completato! Premi %1 Avanti %2 per continuare.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="87"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="92"/>
         <source>Motor is initializing. This should take around a minute at most.</source>
         <translation>Il motore di sta Avviando. Questa operazione potrebbe durare circa un minuto al massimo.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="93"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="98"/>
         <source>Error: Motor did not initialize in 30 seconds. Probable cause for this: Wrong settings for the motor.</source>
         <translation>Errore: Il motore non è stato avviato entro 30 secondi. Probabile causa dell&apos;anomalia: Settaggi errati per il motore in uso.</translation>
     </message>
@@ -2237,12 +2255,12 @@
         <translation>Aggiornamento firmware Ioni:</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="113"/>
+        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="154"/>
         <source>%1 Error: %2 Could not open the specified DRC file.</source>
         <translation>%1 Errore: %2 Impossibile aprire il file DRC selezionato.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="158"/>
+        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="199"/>
         <source>Applying Ioni DRC Data</source>
         <translation>Applicazione dei dati DRC sullo Ioni</translation>
     </message>
