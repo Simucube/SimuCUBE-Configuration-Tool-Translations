@@ -286,13 +286,13 @@
         <location filename="analogconfigdialog.ui" line="1181"/>
         <source>Export to ini file</source>
         <oldsource>Export analogsettings.ini</oldsource>
-        <translation type="unfinished">Esporta analogsettings.ini</translation>
+        <translation>Esporta su file ini</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="1188"/>
         <source>Import from ini file</source>
         <oldsource>Import analogsettings.ini</oldsource>
-        <translation type="unfinished">Importa analogsettings.ini</translation>
+        <translation>Importa da file ini</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.ui" line="1195"/>
@@ -337,13 +337,13 @@
     <message>
         <location filename="analogconfigdialog.cpp" line="473"/>
         <source>Save Analog configuration to INI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva configurazioni Analogiche su file INI</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.cpp" line="473"/>
         <location filename="analogconfigdialog.cpp" line="527"/>
         <source>Ini file (*.ini)</source>
-        <translation type="unfinished"></translation>
+        <translation>File INI (*.ini)</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.cpp" line="521"/>
@@ -353,7 +353,7 @@
     <message>
         <location filename="analogconfigdialog.cpp" line="527"/>
         <source>Load analog configuration INI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Carica le configurazioni analogiche da file INI</translation>
     </message>
     <message>
         <location filename="analogconfigdialog.cpp" line="535"/>
@@ -993,27 +993,27 @@
     <message>
         <location filename="mw.ui" line="1394"/>
         <source>Only space, A-Z, a-z, 0-9, -_()/° are accepted. Maximum length of profile name is 24 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sono consentiti solamente i caratteri: spazio, A-Z, a-z, 0-9, -_()/°. Il nome profilo può essere composto da un massimo di 24 caratteri.</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1412"/>
         <source>space, a-z,A-Z,0-9,-_()/°</source>
-        <translation type="unfinished"></translation>
+        <translation>spazio, A-Z, a-z, 0-9, -_()/°</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1838"/>
         <source>USB Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Settaggi USB</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1845"/>
         <source>USB Suspend support</source>
-        <translation type="unfinished"></translation>
+        <translation>Supporto sospensione USB</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1859"/>
         <source>USB Recovery support</source>
-        <translation type="unfinished"></translation>
+        <translation>Supporto ripristino USB</translation>
     </message>
     <message>
         <location filename="mw.ui" line="1879"/>
@@ -1073,12 +1073,12 @@
     <message>
         <location filename="mw.ui" line="2058"/>
         <source>Configuration Tool language</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingua dello strumento di configurazione</translation>
     </message>
     <message>
         <location filename="mw.ui" line="2067"/>
         <source>Set this language (requires restart)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta questa lingua (richiede il riavvio)</translation>
     </message>
     <message>
         <location filename="mw.ui" line="2104"/>
@@ -1281,7 +1281,7 @@
         <location filename="mw.cpp" line="739"/>
         <location filename="mw.cpp" line="748"/>
         <source>Fault Location ID: </source>
-        <translation type="unfinished"></translation>
+        <translation>ID Locazione in errore: </translation>
     </message>
     <message>
         <location filename="mw.cpp" line="721"/>
@@ -1431,7 +1431,7 @@
     <message>
         <location filename="mw.cpp" line="1044"/>
         <source>Absolute encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Encoder Assoluto</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="1048"/>
@@ -1458,23 +1458,23 @@
     <message>
         <location filename="mw.cpp" line="2143"/>
         <source>Save profiles to INI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva i profili su file INI</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="2143"/>
         <location filename="mw.cpp" line="2195"/>
         <source>Ini file (*.ini)</source>
-        <translation type="unfinished"></translation>
+        <translation>File INI (*.ini)</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="2182"/>
         <source>Profiles exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profili esportati.</translation>
     </message>
     <message>
         <location filename="mw.cpp" line="2195"/>
         <source>Open profiles INI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri il file INI dei profili</translation>
     </message>
     <message>
         <location filename="mw.ui" line="2262"/>
@@ -1531,7 +1531,7 @@
         <location filename="commutationconfigdialog.ui" line="20"/>
         <source>With Absolute encoders such as BiSS B, BiSS C or SSI, it is possible to setup and save automatic commutation sensors.</source>
         <oldsource>With BiSS-C absolute encoders, it is possible to setup and save automatic commutation sensors.</oldsource>
-        <translation type="unfinished">Usando l&apos;encoder assoluto BiSS-C, è possibile settare e salvare automaticamente i sensori di commutazione.</translation>
+        <translation>Con gli encoder assoluti BiSS B, BiSS C o SSI è possibile settare e salvare automaticamente i sensori di commutazione.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="30"/>
@@ -1547,7 +1547,7 @@
         <location filename="commutationconfigdialog.ui" line="50"/>
         <source>Please disconnect any wheel rim USB cables, as the motor will rotate during the procedure.</source>
         <oldsource>Please disconnet any wheel rim USB cables, as the motor will rotate during the procedure.</oldsource>
-        <translation type="unfinished">Disconnetti qualsiasi cavo USB dal volante, il motore effettuerà delle rotazioni durante la procedura.</translation>
+        <translation>Disconnetti qualsiasi cavo USB dal volante, il motore effettuerà delle rotazioni durante la procedura.</translation>
     </message>
     <message>
         <location filename="commutationconfigdialog.ui" line="62"/>
@@ -1747,7 +1747,7 @@
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="49"/>
         <source>Please wait 30 s for possible IONI Firmware automatic update to finish. Please note, that if there is an update, the IONI drive will restart, which might cause the phasing routine to be run. Do not power-off the system.... %1 s remaining.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore aspetta 30 secondi per permettere il completamento della procedura automatica di aggiornamento Firmware IONI. Da notare che, se è presente un aggiornamento, il drive IONI sarà riavviato, e questo comporterà l&apos;avvio della fase di inizializzazione. Non spegnere il sistema.... %1 secondi rimanenti.</translation>
     </message>
     <message>
         <location filename="fwupdatewizard_updateconfirm.cpp" line="72"/>
@@ -1880,103 +1880,103 @@
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="19"/>
         <source>Setup commutation sensors</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione sensori di commutazione</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="27"/>
         <source>Possible absolute encoder (BiSS B, BiSS C or SSI) has been detected. With absolute encoders, it is possible to setup and save automatic commutation sensors.</source>
-        <translation type="unfinished"></translation>
+        <translation>E&apos; stato rilevato un possibile encoder assoluto (BiSS B, BiSS C o SSI). Con gli encoder assoluti è possibile configurare e salvare la commutazione automatica dei sensori.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="29"/>
         <source>With this dialog, you can turn this feature on and off. </source>
-        <translation type="unfinished">Con questa opzione, puoi accendere e spegnere questa funzionalità. </translation>
+        <translation>Con questa opzione, puoi accendere e spegnere questa funzionalità. </translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="31"/>
         <source>Please disconnect any wheel rim USB cables, as the motor will rotate during the procedure.</source>
-        <translation type="unfinished">Disconnetti qualsiasi cavo USB dal volante, il motore effettuerà delle rotazioni durante la procedura.</translation>
+        <translation>Disconnetti qualsiasi cavo USB dal volante, il motore effettuerà delle rotazioni durante la procedura.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="33"/>
         <source>Process status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato processo:</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="34"/>
         <source>This means that the wheel is not required to perform the phase search routine at startup and it will be immediately usable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo significa che il volante non avrà bisogno di effettuare la ricerca del punto centrale durante l&apos;avvio, e sarà utilizzabile immediatamente.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="36"/>
         <source>Start automatic commutation setup</source>
-        <translation type="unfinished">Inizia il setup di commutazione automatica</translation>
+        <translation>Inizia la configurazione della commutazione automatica</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="37"/>
         <source>Disable previously set automatic commutation settings</source>
-        <translation type="unfinished">Disabilita i precedenti settaggi di commutazione automatica</translation>
+        <translation>Disabilita i precedenti settaggi di commutazione automatica</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="122"/>
         <source>SimuCUBE is not in Operational state; cannot perform task.</source>
-        <translation type="unfinished"></translation>
+        <translation>La SimuCUBE non è in stato Operativo; non puoi effettuare questa operazione.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="132"/>
         <source>Task not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Attività non iniziata</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="143"/>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="147"/>
         <source>Started / Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniziata / Occupata</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="152"/>
         <source>Failure: Unsupported encoder. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito: Encoder non supportato. I settaggi del drive non sono stati modificati.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="162"/>
         <source>Failure: Drive not initialized in Torque mode. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito: Drive non inizializzato in modalità Potenza. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="172"/>
         <source>Failure: Drive not initialized. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito: Drive non inizializzato. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="183"/>
         <source>Failure: Drive current limits too low to perform this operation. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito: I limiti di corrente del Drive sono toppo bassi per effettuare questa operazione. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="193"/>
         <source>Failure: HAL sensor signals are too noisy. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito: I segnali dei sensori HALL sono troppo disturbati. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="203"/>
         <source>Failure: HAL sensors activated in invalid sequence. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito: I sensori HALL sono attivati con una sequenza non valida. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="213"/>
         <source>Failure: Timeout. Drive settings have not been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito: Fuori tempo massimo. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="223"/>
         <source>Success. Drive settings have been saved to drive flash memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Successo: I settaggi del Drive sono stati memorizzati nella sua memoria flash.</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_commutationconfig.cpp" line="241"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Attività fallita</translation>
     </message>
 </context>
 <context>
@@ -2047,7 +2047,7 @@
     <message>
         <location filename="motorconfigwizard_indexingselect.cpp" line="28"/>
         <source>%1 Note: %2 If you have system with an %1 Absolute encoder %2 and you set up to use the commutation sensor (later in this wizard), your wheel will always work without phasing, and this selection makes %1 no difference %2 to the operation of the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Nota: %2 Se hai un sistema con un %1 Encoder Assoluto %2 e la tua configurazione usa il sensore di commutazione (successivo in questa procedura guidata), il tuo volante lavorerà sempre senza effettuare la fase di centraggio, e questa selezione %1 non creerà differenze %2 sull&apos;operatività del sistema.</translation>
     </message>
 </context>
 <context>
@@ -2131,7 +2131,7 @@
         <location filename="motorconfigwizard_motorselect.cpp" line="18"/>
         <source>Use a DRC file to configure the motor&amp;&amp;encoder</source>
         <oldsource>Select a motor&amp;&amp;encoder from the dropdown below</oldsource>
-        <translation type="unfinished">Seleziona motore&amp;&amp;encoder dalla lista sotto</translation>
+        <translation>Usa un file DRC per configurare il motore e l&apos;encoder</translation>
     </message>
     <message>
         <source>The dropdown is generated from the .drc configuration files in the program installation folder.</source>
@@ -2145,7 +2145,7 @@
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="52"/>
         <source>Select DRC file</source>
-        <translation type="unfinished"></translation>
+        <translation>Selefiona il file DRC</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="83"/>
@@ -2155,17 +2155,17 @@
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="99"/>
         <source>Open DRC file</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri il file DRC</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="99"/>
         <source>DRC files (*.drc)</source>
-        <translation type="unfinished"></translation>
+        <translation>File DRC (*.drc)</translation>
     </message>
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="100"/>
         <source>Selected file: </source>
-        <translation type="unfinished"></translation>
+        <translation>File selezionato: </translation>
     </message>
     <message>
         <location filename="motorconfigwizard_motorselect.cpp" line="132"/>
