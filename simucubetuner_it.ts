@@ -64,11 +64,11 @@
     <message>
         <location filename="analogconfigdialog.ui" line="149"/>
         <location filename="analogconfigdialog.ui" line="232"/>
-        <location filename="analogconfigdialog.ui" line="1056"/>
-        <location filename="analogconfigdialog.ui" line="1063"/>
-        <location filename="analogconfigdialog.ui" line="1077"/>
-        <location filename="analogconfigdialog.ui" line="1084"/>
-        <location filename="analogconfigdialog.ui" line="1107"/>
+        <location filename="analogconfigdialog.ui" line="566"/>
+        <location filename="analogconfigdialog.ui" line="573"/>
+        <location filename="analogconfigdialog.ui" line="587"/>
+        <location filename="analogconfigdialog.ui" line="594"/>
+        <location filename="analogconfigdialog.ui" line="617"/>
         <source>Invert</source>
         <translation>Inverti</translation>
     </message>
@@ -93,275 +93,177 @@
         <translation>Timone</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="426"/>
-        <location filename="analogconfigdialog.ui" line="520"/>
-        <location filename="analogconfigdialog.ui" line="600"/>
-        <location filename="analogconfigdialog.ui" line="680"/>
-        <location filename="analogconfigdialog.ui" line="760"/>
-        <location filename="analogconfigdialog.ui" line="840"/>
-        <location filename="analogconfigdialog.ui" line="941"/>
         <source>Not configured</source>
-        <translation>Non configurato</translation>
+        <translation type="vanished">Non configurato</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="431"/>
-        <location filename="analogconfigdialog.ui" line="525"/>
-        <location filename="analogconfigdialog.ui" line="605"/>
-        <location filename="analogconfigdialog.ui" line="685"/>
-        <location filename="analogconfigdialog.ui" line="765"/>
-        <location filename="analogconfigdialog.ui" line="845"/>
-        <location filename="analogconfigdialog.ui" line="946"/>
         <source>X11 upper 1 (brake)</source>
-        <translation>X11 alto 1 (freno)</translation>
+        <translation type="vanished">X11 alto 1 (freno)</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="436"/>
-        <location filename="analogconfigdialog.ui" line="530"/>
-        <location filename="analogconfigdialog.ui" line="610"/>
-        <location filename="analogconfigdialog.ui" line="690"/>
-        <location filename="analogconfigdialog.ui" line="770"/>
-        <location filename="analogconfigdialog.ui" line="850"/>
-        <location filename="analogconfigdialog.ui" line="951"/>
         <source>X11 upper 2 (throttle)</source>
-        <translation>X11 alto 2 (acceleratore)</translation>
+        <translation type="vanished">X11 alto 2 (acceleratore)</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="441"/>
-        <location filename="analogconfigdialog.ui" line="535"/>
-        <location filename="analogconfigdialog.ui" line="615"/>
-        <location filename="analogconfigdialog.ui" line="695"/>
-        <location filename="analogconfigdialog.ui" line="775"/>
-        <location filename="analogconfigdialog.ui" line="855"/>
-        <location filename="analogconfigdialog.ui" line="956"/>
         <source>X11 upper 3</source>
-        <translation>X11 alto 3</translation>
+        <translation type="vanished">X11 alto 3</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="446"/>
-        <location filename="analogconfigdialog.ui" line="540"/>
-        <location filename="analogconfigdialog.ui" line="620"/>
-        <location filename="analogconfigdialog.ui" line="700"/>
-        <location filename="analogconfigdialog.ui" line="780"/>
-        <location filename="analogconfigdialog.ui" line="860"/>
-        <location filename="analogconfigdialog.ui" line="961"/>
         <source>X11 upper 5 (clutch)</source>
-        <translation>X11 alto 5 (frizione)</translation>
+        <translation type="vanished">X11 alto 5 (frizione)</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="451"/>
-        <location filename="analogconfigdialog.ui" line="545"/>
-        <location filename="analogconfigdialog.ui" line="625"/>
-        <location filename="analogconfigdialog.ui" line="705"/>
-        <location filename="analogconfigdialog.ui" line="785"/>
-        <location filename="analogconfigdialog.ui" line="865"/>
-        <location filename="analogconfigdialog.ui" line="966"/>
         <source>X11 upper 6</source>
-        <translation>X11 alto 6</translation>
+        <translation type="vanished">X11 alto 6</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="456"/>
-        <location filename="analogconfigdialog.ui" line="550"/>
-        <location filename="analogconfigdialog.ui" line="630"/>
-        <location filename="analogconfigdialog.ui" line="710"/>
-        <location filename="analogconfigdialog.ui" line="790"/>
-        <location filename="analogconfigdialog.ui" line="870"/>
-        <location filename="analogconfigdialog.ui" line="971"/>
         <source>X11 lower 2</source>
-        <translation>X11 basso 2</translation>
+        <translation type="vanished">X11 basso 2</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="461"/>
-        <location filename="analogconfigdialog.ui" line="555"/>
-        <location filename="analogconfigdialog.ui" line="635"/>
-        <location filename="analogconfigdialog.ui" line="715"/>
-        <location filename="analogconfigdialog.ui" line="795"/>
-        <location filename="analogconfigdialog.ui" line="875"/>
-        <location filename="analogconfigdialog.ui" line="976"/>
         <source>X11 lower 3</source>
-        <translation>X11 basso 3</translation>
+        <translation type="vanished">X11 basso 3</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="466"/>
-        <location filename="analogconfigdialog.ui" line="560"/>
-        <location filename="analogconfigdialog.ui" line="640"/>
-        <location filename="analogconfigdialog.ui" line="720"/>
-        <location filename="analogconfigdialog.ui" line="800"/>
-        <location filename="analogconfigdialog.ui" line="880"/>
-        <location filename="analogconfigdialog.ui" line="981"/>
         <source>X11 lower 5</source>
-        <translation>X11 basso 5</translation>
+        <translation type="vanished">X11 basso 5</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="471"/>
-        <location filename="analogconfigdialog.ui" line="565"/>
-        <location filename="analogconfigdialog.ui" line="645"/>
-        <location filename="analogconfigdialog.ui" line="725"/>
-        <location filename="analogconfigdialog.ui" line="805"/>
-        <location filename="analogconfigdialog.ui" line="885"/>
-        <location filename="analogconfigdialog.ui" line="986"/>
         <source>X11 lower 6</source>
-        <translation>X11 basso 6</translation>
+        <translation type="vanished">X11 basso 6</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="476"/>
-        <location filename="analogconfigdialog.ui" line="570"/>
-        <location filename="analogconfigdialog.ui" line="650"/>
-        <location filename="analogconfigdialog.ui" line="730"/>
-        <location filename="analogconfigdialog.ui" line="810"/>
-        <location filename="analogconfigdialog.ui" line="890"/>
-        <location filename="analogconfigdialog.ui" line="991"/>
         <source>X11 lower 7</source>
-        <translation>X11 basso 7</translation>
+        <translation type="vanished">X11 basso 7</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="481"/>
-        <location filename="analogconfigdialog.ui" line="575"/>
-        <location filename="analogconfigdialog.ui" line="655"/>
-        <location filename="analogconfigdialog.ui" line="735"/>
-        <location filename="analogconfigdialog.ui" line="815"/>
-        <location filename="analogconfigdialog.ui" line="895"/>
-        <location filename="analogconfigdialog.ui" line="996"/>
         <source>External Pot 1</source>
-        <translation>Potenziometro esterno 1</translation>
+        <translation type="vanished">Potenziometro esterno 1</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="486"/>
-        <location filename="analogconfigdialog.ui" line="580"/>
-        <location filename="analogconfigdialog.ui" line="660"/>
-        <location filename="analogconfigdialog.ui" line="740"/>
-        <location filename="analogconfigdialog.ui" line="820"/>
-        <location filename="analogconfigdialog.ui" line="900"/>
-        <location filename="analogconfigdialog.ui" line="1001"/>
         <source>External Pot 2</source>
-        <translation>Potenziometro esterno 2</translation>
+        <translation type="vanished">Potenziometro esterno 2</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="491"/>
-        <location filename="analogconfigdialog.ui" line="585"/>
-        <location filename="analogconfigdialog.ui" line="665"/>
-        <location filename="analogconfigdialog.ui" line="745"/>
-        <location filename="analogconfigdialog.ui" line="825"/>
-        <location filename="analogconfigdialog.ui" line="905"/>
-        <location filename="analogconfigdialog.ui" line="1006"/>
         <source>External Pot 3</source>
-        <translation>Potenziometro esterno 3</translation>
+        <translation type="vanished">Potenziometro esterno 3</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="499"/>
+        <location filename="analogconfigdialog.ui" line="429"/>
         <source>Input select</source>
         <translation>Selezione ingressi</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="506"/>
+        <location filename="analogconfigdialog.ui" line="436"/>
         <source>Position indicator</source>
         <translation>Indicatore di posizione</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1097"/>
+        <location filename="analogconfigdialog.ui" line="607"/>
         <source>Calibrated value</source>
         <translation>Valore calibrato</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1114"/>
-        <location filename="analogconfigdialog.ui" line="1121"/>
-        <location filename="analogconfigdialog.ui" line="1128"/>
-        <location filename="analogconfigdialog.ui" line="1135"/>
-        <location filename="analogconfigdialog.ui" line="1142"/>
-        <location filename="analogconfigdialog.ui" line="1149"/>
-        <location filename="analogconfigdialog.ui" line="1156"/>
+        <location filename="analogconfigdialog.ui" line="624"/>
+        <location filename="analogconfigdialog.ui" line="631"/>
+        <location filename="analogconfigdialog.ui" line="638"/>
+        <location filename="analogconfigdialog.ui" line="645"/>
+        <location filename="analogconfigdialog.ui" line="652"/>
+        <location filename="analogconfigdialog.ui" line="659"/>
+        <location filename="analogconfigdialog.ui" line="666"/>
         <source>Reset</source>
         <translation>Azzera</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1163"/>
+        <location filename="analogconfigdialog.ui" line="673"/>
         <source>Reset to defaults</source>
         <translation>Riporta ad i valori predefiniti</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1174"/>
+        <location filename="analogconfigdialog.ui" line="684"/>
         <source>Settings management</source>
         <translation>Gestione configurazione</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1181"/>
+        <location filename="analogconfigdialog.ui" line="691"/>
         <source>Export to ini file</source>
         <oldsource>Export analogsettings.ini</oldsource>
         <translation>Esporta su file ini</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1188"/>
+        <location filename="analogconfigdialog.ui" line="698"/>
         <source>Import from ini file</source>
         <oldsource>Import analogsettings.ini</oldsource>
         <translation>Importa da file ini</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1195"/>
+        <location filename="analogconfigdialog.ui" line="705"/>
         <source>exportimportsuccessLabel</source>
         <translation>exportimportsuccessLabel</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1215"/>
+        <location filename="analogconfigdialog.ui" line="725"/>
         <source>Note 1: </source>
         <translation>Nota 1: </translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1225"/>
+        <location filename="analogconfigdialog.ui" line="735"/>
         <source>While this dialog is open, games will see raw, uncalibrated values. </source>
         <translation>Durante l&apos;apertura di questo messaggio, i giochi vedranno i valori reali non calibrati. </translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1241"/>
+        <location filename="analogconfigdialog.ui" line="751"/>
         <source>Note 2:</source>
         <translation>Nota 2:</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1251"/>
+        <location filename="analogconfigdialog.ui" line="761"/>
         <source>Unconnected inputs are floating, and might be acting in strange ways. Be sure to double check against the pins that you have connected to.</source>
         <translation>Gli ingressi non connessi hanno valori fluttuanti, e potrebbero dare comportamenti errati. Ricontrolla ed assicurati di aver effettuato le giuste connessioni.</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1267"/>
+        <location filename="analogconfigdialog.ui" line="777"/>
         <source>Note 3:</source>
         <translation>Nota 3:</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1277"/>
+        <location filename="analogconfigdialog.ui" line="787"/>
         <source>Not configured Y axis will idle at 50% position, so that joystick will show at middle position for games.</source>
         <translation>L&apos;asse Y non configurato è impostato al 50% del valore, questo comandosarà mostrato nei giochi a metà posizione.</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1299"/>
+        <location filename="analogconfigdialog.ui" line="809"/>
         <source>Accept settings and close. Cancel reverts to the previous settings.</source>
         <translation>Accetta i settaggi e chiudi. Cancella ripristina ad i settaggi precedenti.</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="473"/>
+        <location filename="analogconfigdialog.cpp" line="530"/>
         <source>Save Analog configuration to INI file</source>
         <translation>Salva configurazioni Analogiche su file INI</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="473"/>
-        <location filename="analogconfigdialog.cpp" line="527"/>
+        <location filename="analogconfigdialog.cpp" line="530"/>
+        <location filename="analogconfigdialog.cpp" line="584"/>
         <source>Ini file (*.ini)</source>
         <translation>File INI (*.ini)</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="521"/>
+        <location filename="analogconfigdialog.cpp" line="578"/>
         <source>Exported to %1</source>
         <translation>Esportato in %1</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="527"/>
+        <location filename="analogconfigdialog.cpp" line="584"/>
         <source>Load analog configuration INI file</source>
         <translation>Carica le configurazioni analogiche da file INI</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="535"/>
+        <location filename="analogconfigdialog.cpp" line="592"/>
         <source>Failed to load %1</source>
         <translation>Impossibile caricare %1</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="575"/>
+        <location filename="analogconfigdialog.cpp" line="632"/>
         <source>Loaded from %1</source>
         <translation>Caricato da %1</translation>
     </message>
@@ -1147,7 +1049,7 @@
     <message>
         <location filename="mw.cpp" line="126"/>
         <location filename="mw.cpp" line="965"/>
-        <location filename="mw.cpp" line="1509"/>
+        <location filename="mw.cpp" line="1512"/>
         <source>Enable Ioni USB configuration</source>
         <translation>Abilita la configurazione Ioni USB</translation>
     </message>
@@ -1384,7 +1286,7 @@
     </message>
     <message>
         <location filename="mw.cpp" line="997"/>
-        <location filename="mw.cpp" line="1495"/>
+        <location filename="mw.cpp" line="1498"/>
         <source>Disable Ioni USB configuration</source>
         <translation>Disabilita la configurazione Ioni USB</translation>
     </message>
@@ -1445,8 +1347,8 @@
     </message>
     <message>
         <location filename="mw.cpp" line="1187"/>
-        <location filename="mw.cpp" line="1906"/>
-        <location filename="mw.cpp" line="1937"/>
+        <location filename="mw.cpp" line="1909"/>
+        <location filename="mw.cpp" line="1940"/>
         <source>lock-to-lock</source>
         <translation>Gradi di rotazione</translation>
     </message>
@@ -1456,39 +1358,39 @@
         <translation>disabilitato</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2190"/>
+        <location filename="mw.cpp" line="2201"/>
         <source>Save profiles to INI file</source>
         <translation>Salva i profili su file INI</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2190"/>
-        <location filename="mw.cpp" line="2242"/>
+        <location filename="mw.cpp" line="2201"/>
+        <location filename="mw.cpp" line="2253"/>
         <source>Ini file (*.ini)</source>
         <translation>File INI (*.ini)</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2229"/>
+        <location filename="mw.cpp" line="2240"/>
         <source>Profiles exported.</source>
         <translation>Profili esportati.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2242"/>
+        <location filename="mw.cpp" line="2253"/>
         <source>Open profiles INI file</source>
         <translation>Apri il file INI dei profili</translation>
     </message>
     <message>
         <location filename="mw.ui" line="2262"/>
-        <location filename="mw.cpp" line="1607"/>
+        <location filename="mw.cpp" line="1610"/>
         <source>Settings applied automatically - save to make them permanent</source>
         <translation>Settaggi applicati autoamticamente . salva per renderli permanenti</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1626"/>
+        <location filename="mw.cpp" line="1629"/>
         <source>Settings up to date in permanent memory</source>
         <translation>Settaggi salvati permanentemente in memoria</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1836"/>
+        <location filename="mw.cpp" line="1839"/>
         <source>Unsafe to apply or save settings - would cause immediate torque!</source>
         <translation>Non è sicuro applicare o salvare questi settaggi .  potrebbero causare rotazioni immediate!</translation>
     </message>
@@ -1497,17 +1399,17 @@
         <translation type="vanished">Profilo esportato.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2259"/>
+        <location filename="mw.cpp" line="2270"/>
         <source>File is empty.</source>
         <translation>Il file è vuoto.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2265"/>
+        <location filename="mw.cpp" line="2276"/>
         <source>Profiles imported.</source>
         <translation>Profilo importato.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2595"/>
+        <location filename="mw.cpp" line="2606"/>
         <source>Event Log</source>
         <translation>Log eventi</translation>
     </message>
@@ -1515,7 +1417,7 @@
 <context>
     <name>QLabel</name>
     <message>
-        <location filename="mw.cpp" line="2340"/>
+        <location filename="mw.cpp" line="2351"/>
         <source>This is the default profile.</source>
         <translation>Profilo predefinito.</translation>
     </message>
@@ -2001,7 +1903,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="295"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="297"/>
         <source>Automatic commutation setup has been cleared. You can click %1 Next %2 to continue.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2204,7 +2106,7 @@
         <translation>File selezionato: </translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_motorselect.cpp" line="136"/>
+        <location filename="motorconfigwizard_motorselect.cpp" line="138"/>
         <source>%1 Error: %2 Could not open the specified DRC file.</source>
         <translation>%1 Errore: %2 Impossibile aprire il file DRC.</translation>
     </message>
@@ -2380,23 +2282,41 @@
     <name>resetcenterdialog</name>
     <message>
         <location filename="resetcenterdialog.ui" line="14"/>
-        <location filename="resetcenterdialog.ui" line="46"/>
-        <location filename="resetcenterdialog.cpp" line="14"/>
+        <location filename="resetcenterdialog.cpp" line="15"/>
         <source>Reset wheel center</source>
         <translation>Reimposta centraggio volante</translation>
     </message>
     <message>
-        <location filename="resetcenterdialog.ui" line="23"/>
-        <source>Note: this will not change your automatic center offset preferences. Pressing the above button only effects this session, and automatic settings (via the configure motor, encoder and centering wizard) will be restored at powerup.</source>
-        <translation>Nota: questo non cambia la tua preferenza  di modalità di centraggio. La pressione del tasto sotto influenza solo questa sessione, ed i settaggi automatici (effettuati con la configurazione motore, encoder, e procedura guidata di centraggio) saranno riabilitati all&apos;accensione.</translation>
+        <location filename="resetcenterdialog.ui" line="30"/>
+        <source>Set permanent wheel center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="resetcenterdialog.ui" line="33"/>
+        <location filename="resetcenterdialog.ui" line="37"/>
+        <source>This sets the permanent steering center position.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="resetcenterdialog.ui" line="51"/>
+        <source>Note: All changes to profiles and other settings will also be saved to SimuCUBE.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="resetcenterdialog.ui" line="61"/>
+        <source>This will not change your automatic center offset preferences. Pressing the above button only effects this session, and automatic settings (via the configure motor, encoder and centering wizard) will be restored at powerup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: this will not change your automatic center offset preferences. Pressing the above button only effects this session, and automatic settings (via the configure motor, encoder and centering wizard) will be restored at powerup.</source>
+        <translation type="vanished">Nota: questo non cambia la tua preferenza  di modalità di centraggio. La pressione del tasto sotto influenza solo questa sessione, ed i settaggi automatici (effettuati con la configurazione motore, encoder, e procedura guidata di centraggio) saranno riabilitati all&apos;accensione.</translation>
+    </message>
+    <message>
+        <location filename="resetcenterdialog.ui" line="78"/>
         <source>Just set wheel center here for now</source>
         <translation>Per ora configura solamente il centro del volante</translation>
     </message>
     <message>
-        <location filename="resetcenterdialog.ui" line="59"/>
+        <location filename="resetcenterdialog.ui" line="71"/>
         <source>Cancel</source>
         <translation>Annulla</translation>
     </message>
